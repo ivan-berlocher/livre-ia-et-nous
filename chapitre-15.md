@@ -16,7 +16,7 @@ Que faire de tout cela ?
 
 ---
 
-### 24.1 Ce que vous avez appris
+### 15.1 Ce que vous avez appris
 
 **Partie I — Comprendre la bête**
 
@@ -40,7 +40,7 @@ Les emplois vont changer, pas disparaître. L'éducation doit se réinventer. La
 
 ---
 
-### 24.2 Les trois postures possibles
+### 15.2 Les trois postures possibles
 
 **1. Le technophobe**
 
@@ -62,7 +62,7 @@ C'est la posture que ce livre vous invite à adopter. Ni peur ni naïveté. Luci
 
 ---
 
-### 24.3 Le citoyen augmenté
+### 15.3 Le citoyen augmenté
 
 **Ce que ça signifie :**
 
@@ -83,7 +83,7 @@ Le citoyen augmenté n'est pas un super-humain. C'est un humain qui a choisi de 
 
 ---
 
-### 24.4 Vos responsabilités
+### 15.4 Vos responsabilités
 
 **Envers vous-même :**
 
@@ -108,7 +108,7 @@ Le citoyen augmenté n'est pas un super-humain. C'est un humain qui a choisi de 
 
 ---
 
-### 24.5 Les actions concrètes
+### 15.5 Les actions concrètes
 
 **Demain :**
 
@@ -145,7 +145,7 @@ Le citoyen augmenté n'est pas un super-humain. C'est un humain qui a choisi de 
 
 ---
 
-### 24.6 Le monde que nous voulons
+### 15.6 Le monde que nous voulons
 
 **L'IA amplifie ce que nous sommes.**
 
@@ -159,7 +159,7 @@ Si nous sommes solidaires, l'IA amplifiera notre solidarité.
 
 ---
 
-### 24.7 Une utopie accessible
+### 15.7 Une utopie accessible
 
 **Imaginez un monde où :**
 
@@ -179,7 +179,7 @@ Il dépend de nous.
 
 ---
 
-### 24.8 Le mot de la fin
+### 15.8 Le mot de la fin
 
 **Ce livre s'appelait "L'IA et Nous — Le guide du cyber citoyen".**
 

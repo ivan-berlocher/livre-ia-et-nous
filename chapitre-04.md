@@ -9,7 +9,7 @@ Qui paie ? Qui gagne ? Pourquoi ChatGPT est-il "gratuit" ? Ces questions révèl
 
 ---
 
-### 7.1 Pourquoi ChatGPT est "gratuit" (spoiler : vous êtes le produit)
+### 4.1 Pourquoi ChatGPT est "gratuit" (spoiler : vous êtes le produit)
 
 Ouvrez un compte ChatGPT. Posez des questions pendant des heures. Ne payez rien.
 
@@ -43,7 +43,7 @@ C'était vrai pour Google, Facebook, et les réseaux sociaux. C'est vrai pour l'
 
 ---
 
-### 7.2 Le coût réel d'entraîner un LLM
+### 4.2 Le coût réel d'entraîner un LLM
 
 Créer un modèle comme GPT-4 coûte une fortune.
 
@@ -72,7 +72,7 @@ C'est un pari massif. Qui marche tant que les investisseurs y croient.
 
 ---
 
-### 7.3 L'API : comment les entreprises paient
+### 4.3 L'API : comment les entreprises paient
 
 Le vrai business d'OpenAI n'est pas vous. C'est les entreprises.
 
@@ -95,7 +95,7 @@ C'est pourquoi la conquête de parts de marché est si agressive. Chaque entrepr
 
 ---
 
-### 7.4 La course aux données : votre texte vaut de l'or
+### 4.4 La course aux données : votre texte vaut de l'or
 
 Pour entraîner un LLM, il faut du texte. Beaucoup de texte.
 
@@ -119,7 +119,7 @@ Multipliez par 100 millions d'utilisateurs : c'est une main-d'œuvre gratuite co
 
 ---
 
-### 7.5 Le cloud comme dépendance stratégique
+### 4.5 Le cloud comme dépendance stratégique
 
 Le dernier élément du puzzle économique : le cloud.
 

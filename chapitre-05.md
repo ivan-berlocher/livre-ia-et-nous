@@ -9,7 +9,7 @@ C'est une question que presque personne ne pose. Et c'est un problème.
 
 ---
 
-### 8.1 Ce qui se passe quand vous tapez dans ChatGPT
+### 5.1 Ce qui se passe quand vous tapez dans ChatGPT
 
 Vous écrivez : "Mon fils de 8 ans a des difficultés en maths. Comment l'aider ?"
 
@@ -36,7 +36,7 @@ Sauf si vous avez désactivé cette option, votre conversation peut être :
 
 ---
 
-### 8.2 Où vont vos conversations ?
+### 5.2 Où vont vos conversations ?
 
 **Physiquement**
 
@@ -55,7 +55,7 @@ Si vous êtes un citoyen européen lambda, personne ne va probablement fouiller 
 
 ---
 
-### 8.3 Qui peut les lire ? (humains et machines)
+### 5.3 Qui peut les lire ? (humains et machines)
 
 **Les humains**
 
@@ -77,7 +77,7 @@ Vos données alimentent des systèmes automatiques :
 
 ---
 
-### 8.4 La différence entre "stocké" et "utilisé pour entraîner"
+### 5.4 La différence entre "stocké" et "utilisé pour entraîner"
 
 C'est une distinction cruciale que beaucoup de gens ne comprennent pas.
 
@@ -100,7 +100,7 @@ Depuis 2023, vous pouvez aller dans les paramètres et désactiver l'utilisation
 
 ---
 
-### 8.5 Comment (essayer de) protéger vos données
+### 5.5 Comment (essayer de) protéger vos données
 
 **Règle n°1 : Ne jamais partager d'informations sensibles**
 
@@ -129,7 +129,7 @@ Des modèles comme Llama peuvent tourner sur votre propre ordinateur. Rien n'est
 
 ---
 
-### 8.6 Les options "privacy" : ce qu'elles font vraiment
+### 5.6 Les options "privacy" : ce qu'elles font vraiment
 
 **ChatGPT — Mode sans historique**
 
@@ -184,4 +184,12 @@ Un employé utilise ChatGPT pour résumer un rapport stratégique de son entrepr
 
 ---
 
-*Chapitre suivant : Le regard européen — Vos droits*
+## Fin de la Partie I — COMPRENDRE
+
+Vous avez maintenant les bases : le vocabulaire, le modèle MUSIC pour évaluer toute IA, les forces et faiblesses réelles, les acteurs et leurs intérêts, les risques concrets.
+
+**La suite** est différente : nous passons de *comprendre* à *agir*.
+
+---
+
+*Chapitre suivant : L'Europe et vos droits*

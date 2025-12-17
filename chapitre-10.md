@@ -1,5 +1,24 @@
+# PARTIE III : IMAGINER
+
+> *« Le futur n'est pas écrit — mais certaines pages sont déjà tournées. »*
+
+**Ce que vous allez explorer :**
+- Ce qui est quasi certain vs ce qui reste ouvert
+- Comment l'IA va transformer l'éducation, le travail, la société
+- Les questions que nous devons poser — ensemble
+
+**Cette partie est la plus spéculative du livre.** Nous entrons dans le territoire des projections. Tout ce qui suit pourrait être invalidé dans 2 ans. C'est aussi le chapitre le plus important : car c'est maintenant que se dessine l'avenir.
+
+---
+
 # Chapitre 10
 ## L'IA dans 5 ans — prédictions honnêtes
+
+---
+
+> **Imaginer n'est pas prédire, mais préparer.**
+>
+> Cette partie du livre ne prétend pas connaître l'avenir. Elle distingue ce qui est *probable* (tendances en cours), ce qui est *possible* (scénarios plausibles), et ce qui relève du *fantasmé* (ni probable ni souhaitable). L'objectif : vous donner les clés pour anticiper, pas pour craindre.
 
 ---
 
@@ -11,7 +30,7 @@ Voici une tentative honnête de distinguer le probable du possible du fantasmé.
 
 ---
 
-### 18.1 Ce qui est quasi certain
+### 10.1 Ce qui est quasi certain
 
 **Ces tendances sont déjà en cours et vont s'accélérer :**
 
@@ -62,7 +81,7 @@ Avec supervision humaine au début, puis de moins en moins.
 
 ---
 
-### 18.2 Qu'est-ce qu'un Agent, vraiment ?
+### 10.2 Qu'est-ce qu'un Agent, vraiment ?
 
 Le mot "agent" est partout. Mais attention au marketing.
 
@@ -115,7 +134,7 @@ Ce n'est pas l'agent qui est intelligent. C'est l'écosystème.
 
 ---
 
-### 18.3 Open Source, Open Data, Open Agents : les leçons du passé
+### 10.3 Open Source, Open Data, Open Agents : les leçons du passé
 
 Avant de parler d'agents ouverts, regardons ce qui a marché — et ce qui a échoué.
 
@@ -164,7 +183,7 @@ C'est une IA sans responsabilité explicite.
 
 ---
 
-### 18.4 Ce que "Open Agents" devrait vraiment signifier
+### 10.4 Ce que "Open Agents" devrait vraiment signifier
 
 Attention aux fausses pistes :
 - Open Agents ≠ Open prompts
@@ -240,7 +259,7 @@ Parce que :
 
 ---
 
-### 18.5 Du fichier au concept : quand l'informatique devient invisible
+### 10.5 Du fichier au concept : quand l'informatique devient invisible
 
 Une autre transformation profonde est en cours — moins visible, mais tout aussi fondamentale.
 
@@ -310,7 +329,7 @@ Les formats deviennent des détails techniques, interchangeables, secondaires.
 
 ---
 
-### 18.6 Vers une IA gouvernable : ce que nous pourrions exiger
+### 10.6 Vers une IA gouvernable : ce que nous pourrions exiger
 
 Si nous voulons que l'IA reste un outil au service des citoyens, voici ce que nous devrions collectivement exiger.
 
@@ -362,7 +381,7 @@ Et ce choix dépend de ce que nous exigerons collectivement.
 
 ---
 
-### 18.7 Ce qui est probable
+### 10.7 Ce qui est probable
 
 **Ces évolutions ont de bonnes chances de se produire :**
 
@@ -462,7 +481,7 @@ La vitesse d'exécution explose. Mais la vitesse de décision reste humaine. C'e
 
 ---
 
-### 18.8 Ce qui est incertain
+### 10.8 Ce qui est incertain
 
 **Ces questions restent ouvertes :**
 
@@ -502,7 +521,7 @@ Scénarios possibles :
 
 ---
 
-### 18.9 Ce qui est fantasmé
+### 10.9 Ce qui est fantasmé
 
 **Ces scénarios font de bons films mais sont peu probables à 5 ans :**
 
@@ -541,7 +560,7 @@ L'IA est un outil. Un outil puissant. Mais juste un outil.
 
 ---
 
-### 18.10 Les wildcards
+### 10.10 Les wildcards
 
 **Des événements imprévisibles pourraient tout changer :**
 
@@ -563,7 +582,7 @@ Si les gens décident collectivement de refuser certains usages, le marché devr
 
 ---
 
-### 18.11 Ce que ça signifie pour vous
+### 10.11 Ce que ça signifie pour vous
 
 **Le monde dans 5 ans sera différent. Voici comment vous préparer :**
 
@@ -586,7 +605,7 @@ Si les gens décident collectivement de refuser certains usages, le marché devr
 
 ---
 
-### 18.12 Scénarios pour 2030
+### 10.12 Scénarios pour 2030
 
 **Scénario optimiste : L'IA démocratisée**
 
@@ -614,7 +633,7 @@ Si les gens décident collectivement de refuser certains usages, le marché devr
 
 ---
 
-### 18.13 Les questions que nous devrons trancher
+### 10.13 Les questions que nous devrons trancher
 
 **D'ici 5 ans, nous devrons décider collectivement :**
 

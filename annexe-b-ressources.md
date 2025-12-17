@@ -7,6 +7,8 @@ Ce livre est une introduction.
 
 Voici les ressources pour aller plus loin — classées par niveau et par type.
 
+> **📖 Mode d'emploi :** Vous n'êtes pas censé tout lire. Cette annexe est une *boîte à outils*. Piochez ce qui correspond à votre niveau et vos intérêts. Un seul livre bien lu vaut mieux que dix survolés.
+
 ---
 
 ### B.1 Pour commencer (débutant)

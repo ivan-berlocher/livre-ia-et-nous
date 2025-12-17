@@ -258,4 +258,14 @@ L'objectif est de l'utiliser **en conscience**, pour ce qu'elle fait bien, tout 
 
 ---
 
+## Fin de la Partie II — SE PROTÉGER
+
+Vous êtes maintenant équipé : droits, questions, critères d'évaluation, règles d'usage.
+
+**La suite** est plus spéculative : nous passons de *se protéger* à *imaginer*. Prédictions, futurs possibles, et ce que tout cela signifie pour nos enfants et notre société.
+
+**Si vous êtes pressé**, la Partie III peut attendre — vous avez l'essentiel pour naviguer l'IA au quotidien.
+
+---
+
 *Chapitre suivant : L'avenir — prédictions honnêtes*

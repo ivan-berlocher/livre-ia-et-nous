@@ -15,7 +15,7 @@ Voici ce que nous savons — et ce que nous ne savons pas.
 
 ---
 
-### 19.1 L'histoire se répète (mais différemment)
+### 11.1 L'histoire se répète (mais différemment)
 
 **À chaque révolution technologique, les mêmes peurs :**
 
@@ -38,7 +38,7 @@ L'échelle est mondiale.
 
 ---
 
-### 19.2 Les métiers les plus exposés
+### 11.2 Les métiers les plus exposés
 
 **Forte exposition à l'automatisation par IA :**
 
@@ -60,7 +60,7 @@ La partie à valeur ajoutée reste humaine.
 
 ---
 
-### 19.3 Les métiers les plus protégés
+### 11.3 Les métiers les plus protégés
 
 **Faible exposition à l'automatisation par IA :**
 
@@ -82,7 +82,7 @@ Le contact humain, le jugement, la créativité authentique restent hors de port
 
 ---
 
-### 19.4 Les nouveaux métiers
+### 11.4 Les nouveaux métiers
 
 **Des emplois qui n'existaient pas il y a 5 ans :**
 
@@ -103,7 +103,7 @@ Les métiers de 2030 n'existent pas encore.
 
 ---
 
-### 19.5 La transformation des métiers existants
+### 11.5 La transformation des métiers existants
 
 **L'IA ne remplace pas le métier. Elle change la façon de l'exercer.**
 
@@ -133,7 +133,7 @@ Les métiers de 2030 n'existent pas encore.
 
 ---
 
-### 19.6 Les compétences de demain
+### 11.6 Les compétences de demain
 
 **Ce que l'IA fait mieux que vous :**
 
@@ -160,7 +160,7 @@ Les métiers de 2030 n'existent pas encore.
 
 ---
 
-### 19.7 Comment se préparer
+### 11.7 Comment se préparer
 
 **Si vous êtes en activité :**
 
@@ -180,7 +180,7 @@ Les métiers de 2030 n'existent pas encore.
 
 ---
 
-### 19.8 La question de la reconversion
+### 11.8 La question de la reconversion
 
 **Pour ceux dont le métier est fortement impacté :**
 
@@ -201,7 +201,7 @@ Les métiers de 2030 n'existent pas encore.
 
 ---
 
-### 19.9 Le débat sur le partage des gains
+### 11.9 Le débat sur le partage des gains
 
 **L'IA augmente la productivité. Qui en bénéficie ?**
 
@@ -222,7 +222,7 @@ Comment voulons-nous partager les fruits de l'automatisation ?
 
 ---
 
-### 19.10 Ni utopie ni dystopie
+### 11.10 Ni utopie ni dystopie
 
 **Le scénario utopique :**
 

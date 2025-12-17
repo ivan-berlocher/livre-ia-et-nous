@@ -1,3 +1,17 @@
+# PARTIE II : SE PROTÉGER
+
+> *« Savoir, c'est pouvoir — mais seulement si vous savez quoi faire de ce savoir. »*
+
+**Ce que vous allez apprendre :**
+- Vos droits concrets (et comment les exercer)
+- Les questions à poser avant d'utiliser une IA
+- Comment évaluer la fiabilité d'un système
+- Quand utiliser l'IA — et quand s'en passer
+
+**Vous pouvez lire ces chapitres dans l'ordre ou aller directement** à ce qui vous concerne : vos droits (ch.6), questions pratiques (ch.7), évaluation (ch.8), usages (ch.9).
+
+---
+
 # Chapitre 6
 ## L'Europe et vos droits : la troisième voie
 

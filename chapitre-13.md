@@ -15,7 +15,7 @@ C'est sa redéfinition.
 
 ---
 
-### 21.1 Ce que l'IA peut créer
+### 13.1 Ce que l'IA peut créer
 
 **Les capacités actuelles sont impressionnantes :**
 
@@ -35,7 +35,7 @@ Un texte IA peut remplacer un article de contenu.
 
 ---
 
-### 21.2 Ce que l'IA ne peut PAS créer
+### 13.2 Ce que l'IA ne peut PAS créer
 
 **L'IA ne peut pas :**
 
@@ -59,7 +59,7 @@ Mais il y manque l'humain derrière.
 
 ---
 
-### 21.3 La question de l'authenticité
+### 13.3 La question de l'authenticité
 
 **Deux œuvres identiques peuvent avoir des valeurs différentes.**
 
@@ -82,7 +82,7 @@ Pour d'autres, l'histoire derrière l'œuvre fait partie de l'œuvre.
 
 ---
 
-### 21.4 Les créateurs face à l'IA
+### 13.4 Les créateurs face à l'IA
 
 **Les peurs légitimes :**
 
@@ -107,7 +107,7 @@ La plupart devront s'adapter.
 
 ---
 
-### 21.5 L'artiste augmenté
+### 13.5 L'artiste augmenté
 
 **L'IA comme outil du créateur, pas comme créateur :**
 
@@ -129,7 +129,7 @@ La plupart devront s'adapter.
 
 ---
 
-### 21.6 Les nouvelles formes de création
+### 13.6 Les nouvelles formes de création
 
 **L'IA ouvre de nouveaux territoires :**
 
@@ -155,7 +155,7 @@ L'artiste comme architecte de possibilités.
 
 ---
 
-### 21.7 La question du copyright
+### 13.7 La question du copyright
 
 **Qui possède une œuvre générée par IA ?**
 
@@ -180,7 +180,7 @@ Des procès sont en cours (Getty, artistes individuels).
 
 ---
 
-### 21.8 L'avenir des métiers créatifs
+### 13.8 L'avenir des métiers créatifs
 
 **Les métiers qui souffriront le plus :**
 
@@ -205,7 +205,7 @@ Des procès sont en cours (Getty, artistes individuels).
 
 ---
 
-### 21.9 Rester créatif à l'ère de l'IA
+### 13.9 Rester créatif à l'ère de l'IA
 
 **Conseils pour les créateurs :**
 
@@ -223,7 +223,7 @@ Des procès sont en cours (Getty, artistes individuels).
 
 ---
 
-### 21.10 La créativité humaine irremplaçable
+### 13.10 La créativité humaine irremplaçable
 
 **Ce que vous avez et que l'IA n'aura jamais :**
 
@@ -239,7 +239,7 @@ Mais la simulation n'est pas la chose.
 
 ---
 
-### 21.11 Un nouveau rapport à la création
+### 13.11 Un nouveau rapport à la création
 
 **Peut-être que l'IA nous oblige à repenser ce qu'est créer.**
 

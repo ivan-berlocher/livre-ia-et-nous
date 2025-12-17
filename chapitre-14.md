@@ -14,7 +14,7 @@ Mais qui vérifie ces affirmations ?
 
 ---
 
-### 13.1 Le problème du journalisme tech
+### 14.1 Le problème du journalisme tech
 
 **Le cycle médiatique de l'IA :**
 
@@ -33,7 +33,7 @@ Mais qui vérifie ces affirmations ?
 
 ---
 
-### 13.2 Les signaux d'alarme
+### 14.2 Les signaux d'alarme
 
 **Méfiez-vous quand vous lisez :**
 
@@ -57,7 +57,7 @@ Mais qui vérifie ces affirmations ?
 
 ---
 
-### 13.3 Les conflits d'intérêts cachés
+### 14.3 Les conflits d'intérêts cachés
 
 **Les entreprises IA ont des budgets communication énormes.**
 
@@ -80,7 +80,7 @@ L'information que vous recevez est filtrée par des intérêts économiques.
 
 ---
 
-### 13.4 Questions à poser aux journalistes
+### 14.4 Questions à poser aux journalistes
 
 **Quand vous lisez un article sur l'IA :**
 
@@ -95,7 +95,7 @@ L'information que vous recevez est filtrée par des intérêts économiques.
 
 ---
 
-### 13.5 Le problème des "experts"
+### 14.5 Le problème des "experts"
 
 **Qui parle d'IA dans les médias ?**
 
@@ -119,7 +119,7 @@ Quand un "expert" parle d'IA, demandez-vous : "Quel est son intérêt dans cette
 
 ---
 
-### 13.6 Les médias et l'IA : le serpent qui se mord la queue
+### 14.6 Les médias et l'IA : le serpent qui se mord la queue
 
 **Les médias utilisent de plus en plus l'IA :**
 
@@ -143,7 +143,7 @@ La plupart ne le font pas encore.
 
 ---
 
-### 13.7 Comment s'informer correctement
+### 14.7 Comment s'informer correctement
 
 **Diversifiez vos sources :**
 

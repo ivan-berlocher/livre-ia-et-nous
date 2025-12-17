@@ -9,9 +9,11 @@ Cette question paraît simple. La réponse ne l'est pas.
 
 Derrière ChatGPT, Gemini, Claude et les autres se cache un enchevêtrement d'entreprises, d'investisseurs, de partenariats et de dépendances. Comprendre cette carte, c'est comprendre qui décide de ce que l'IA peut faire — et de ce qu'elle fait de vos données.
 
+> **⚠️ Note sur la temporalité :** Les acteurs cités ici sont ceux de 2024–2025. Les rapports de force évolueront — des géants peuvent chuter, de nouveaux entrants émerger. Ce qui ne changera pas : les questions à poser sur la propriété, le contrôle et la transparence.
+
 ---
 
-### 5.1 OpenAI : de l'utopie au business (Microsoft inside)
+### 3.1 OpenAI : de l'utopie au business (Microsoft inside)
 
 **L'origine (2015)**
 
@@ -38,7 +40,7 @@ Quand vous utilisez ChatGPT, vos données transitent par l'infrastructure Micros
 
 ---
 
-### 5.2 Google/DeepMind : le géant qui a tout inventé (et raté ChatGPT)
+### 3.2 Google/DeepMind : le géant qui a tout inventé (et raté ChatGPT)
 
 **L'ironie de l'histoire**
 
@@ -67,7 +69,7 @@ Google sait déjà presque tout de vous. L'IA va amplifier cette connaissance. G
 
 ---
 
-### 5.3 Meta : l'open source comme stratégie
+### 3.3 Meta : l'open source comme stratégie
 
 **Le pari Llama**
 
@@ -87,7 +89,7 @@ Llama permet à des entreprises et des développeurs de faire tourner des IA loc
 
 ---
 
-### 5.4 Anthropic : les dissidents de la sécurité
+### 3.4 Anthropic : les dissidents de la sécurité
 
 **L'origine**
 
@@ -107,7 +109,7 @@ Claude est souvent considéré comme plus "prudent" — il refuse plus de requê
 
 ---
 
-### 5.5 Mistral : le champion français (et européen ?)
+### 3.5 Mistral : le champion français (et européen ?)
 
 **L'espoir européen**
 
@@ -127,7 +129,7 @@ Mistral est une bonne nouvelle pour la diversité. Mais l'Europe n'a pas encore 
 
 ---
 
-### 5.6 La Chine : le rival invisible
+### 3.6 La Chine : le rival invisible
 
 **Ce que l'Occident ne voit pas**
 
@@ -149,7 +151,7 @@ L'IA que vous utilisez n'est pas neutre. Elle porte les valeurs, les biais et le
 
 ---
 
-### 5.7 L'Europe : arbitre ou colonie ?
+### 3.7 L'Europe : arbitre ou colonie ?
 
 **Ce que l'Europe n'a pas**
 

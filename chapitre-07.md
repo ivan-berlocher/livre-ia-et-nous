@@ -9,6 +9,13 @@ Mais qui vous a expliqué ce qu'elle fait de vos données ?
 
 Ce chapitre est votre guide de questions. Des questions précises, avec les réponses que vous devriez obtenir — et comment réagir si vous ne les obtenez pas.
 
+> **⏱️ Si vous n'avez que 2 minutes :**
+> - Vos conversations IA *peuvent* être lues par des humains
+> - Versions gratuites = vos données servent à l'entraînement (opt-out possible)
+> - Votre employeur *peut* voir ce que vous faites avec Copilot
+> - Vous avez le droit de savoir et de refuser (RGPD)
+> - Le DPO est votre interlocuteur clé
+
 ---
 
 # PARTIE A : Questions aux entreprises tech

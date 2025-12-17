@@ -11,7 +11,7 @@ Elle n'a pas de réponse simple.
 
 ---
 
-### 20.1 Le paradoxe fondamental
+### 12.1 Le paradoxe fondamental
 
 **L'IA peut :**
 
@@ -32,7 +32,7 @@ Il faut repenser ce que l'école apporte que l'IA ne peut pas apporter.
 
 ---
 
-### 20.2 Ce que l'école apportait (avant l'IA)
+### 12.2 Ce que l'école apportait (avant l'IA)
 
 **Le modèle traditionnel :**
 
@@ -50,7 +50,7 @@ Il faut repenser ce que l'école apporte que l'IA ne peut pas apporter.
 
 ---
 
-### 20.3 Ce que l'école doit devenir
+### 12.3 Ce que l'école doit devenir
 
 **Les nouvelles priorités :**
 
@@ -73,7 +73,7 @@ Il faut repenser ce que l'école apporte que l'IA ne peut pas apporter.
 
 ---
 
-### 20.4 Le problème de la triche
+### 12.4 Le problème de la triche
 
 **ChatGPT a rendu la triche triviale.**
 
@@ -98,7 +98,7 @@ Repenser ce que signifie "apprendre" et "évaluer".
 
 ---
 
-### 20.5 Les modèles émergents
+### 12.5 Les modèles émergents
 
 **Évaluation par portfolio :**
 
@@ -122,7 +122,7 @@ L'IA est une ressource à utiliser intelligemment.
 
 ---
 
-### 20.6 Le rôle de l'enseignant
+### 12.6 Le rôle de l'enseignant
 
 **Ce que l'IA peut faire :**
 
@@ -150,7 +150,7 @@ Plus mentor, guide, coach, inspirateur.
 
 ---
 
-### 20.7 L'éducation à l'IA
+### 12.7 L'éducation à l'IA
 
 **Ce que chaque élève devrait apprendre sur l'IA :**
 
@@ -177,7 +177,7 @@ Plus mentor, guide, coach, inspirateur.
 
 ---
 
-### 20.8 Les inégalités numériques
+### 12.8 Les inégalités numériques
 
 **L'IA risque d'amplifier les inégalités.**
 
@@ -197,7 +197,7 @@ Plus mentor, guide, coach, inspirateur.
 
 ---
 
-### 20.9 L'apprentissage tout au long de la vie
+### 12.9 L'apprentissage tout au long de la vie
 
 **Le diplôme initial ne suffit plus.**
 
@@ -221,7 +221,7 @@ Encore faut-il savoir l'utiliser intelligemment.
 
 ---
 
-### 20.10 Ce que les parents peuvent faire
+### 12.10 Ce que les parents peuvent faire
 
 **À la maison :**
 
@@ -241,7 +241,7 @@ Encore faut-il savoir l'utiliser intelligemment.
 
 ---
 
-### 20.11 Les questions ouvertes
+### 12.11 Les questions ouvertes
 
 **Nous n'avons pas encore les réponses à :**
 
