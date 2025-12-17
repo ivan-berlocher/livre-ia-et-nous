@@ -1,181 +1,188 @@
 # Chapitre 3
-## Les super-pouvoirs (réels)
+## Les acteurs : qui contrôle l'IA ?
 
 ---
 
-Assez parlé des limites. Parlons de ce que l'IA fait **vraiment bien**.
+Qui contrôle l'IA que vous utilisez chaque jour ?
 
-Parce que oui, malgré tout ce qu'on vient de dire, ces outils sont extraordinairement utiles. Des millions de personnes les utilisent chaque jour pour de bonnes raisons.
+Cette question paraît simple. La réponse ne l'est pas.
 
-Voici les vrais super-pouvoirs — ceux qui fonctionnent, et comment en tirer le meilleur parti.
-
----
-
-### 3.1 Rédiger, résumer, reformuler
-
-C'est le cas d'usage numéro un. Et c'est là que l'IA excelle.
-
-**Rédiger un premier brouillon**
-
-Vous avez un email délicat à écrire ? Un rapport à structurer ? Une lettre de motivation à commencer ?
-
-L'IA peut produire un premier jet en quelques secondes. Ce ne sera pas parfait — ce ne sera pas *vous* — mais ce sera un point de départ.
-
-> "Écris un email à mon propriétaire pour signaler une fuite d'eau dans la salle de bain. Ton poli mais ferme."
-
-Résultat : un email structuré, avec les bonnes formules de politesse, que vous pouvez ajuster en 2 minutes au lieu de fixer une page blanche pendant 20 minutes.
-
-**Résumer un texte long**
-
-Vous avez un rapport de 50 pages à lire ? Un article académique dense ? Un contrat interminable ?
-
-> "Résume ce texte en 5 points clés"
-
-L'IA va extraire l'essentiel. Ce n'est pas parfait — elle peut manquer des nuances — mais pour un premier survol, c'est redoutablement efficace.
-
-**Reformuler pour un autre public**
-
-Vous devez expliquer un concept technique à votre grand-mère ? Transformer un texte formel en version décontractée ? Adapter un contenu pour des enfants ?
-
-> "Réécris ce paragraphe pour un enfant de 10 ans"
-
-L'IA adapte le vocabulaire, simplifie les structures, trouve des analogies. C'est impressionnant.
-
-**Pourquoi ça marche si bien ?**
-
-Parce que la rédaction, c'est essentiellement du pattern matching linguistique. L'IA a vu des millions d'emails, de résumés, de reformulations. Elle connaît les patterns.
+Derrière ChatGPT, Gemini, Claude et les autres se cache un enchevêtrement d'entreprises, d'investisseurs, de partenariats et de dépendances. Comprendre cette carte, c'est comprendre qui décide de ce que l'IA peut faire — et de ce qu'elle fait de vos données.
 
 ---
 
-### 3.2 Expliquer des concepts complexes
+### 5.1 OpenAI : de l'utopie au business (Microsoft inside)
 
-Vous voulez comprendre la relativité générale ? La blockchain ? Les mécanismes de l'inflation ? Le fonctionnement du système immunitaire ?
+**L'origine (2015)**
 
-L'IA est un professeur patient qui ne juge jamais.
+OpenAI naît comme une organisation à but non lucratif, fondée par Elon Musk, Sam Altman et d'autres. Mission affichée : développer une IA "sûre et bénéfique pour l'humanité", en open source, pour contrebalancer le pouvoir de Google.
 
-> "Explique-moi la mécanique quantique comme si j'avais 15 ans"
+**Le virage (2019)**
 
-> "Je ne comprends pas les taux d'intérêt négatifs. Peux-tu m'expliquer avec un exemple concret ?"
+Problème : développer une IA de pointe coûte des milliards. OpenAI crée une filiale "capped-profit" (profit plafonné). Elon Musk quitte le conseil d'administration.
 
-> "Qu'est-ce qu'une transformée de Fourier ? Pas de math, juste l'intuition."
+**L'alliance Microsoft (2019-2023)**
 
-L'IA va essayer. Et si vous ne comprenez toujours pas, vous pouvez dire :
+Microsoft investit 1 milliard, puis 10 milliards de dollars. En échange :
+- Microsoft obtient l'exclusivité commerciale sur les modèles GPT
+- Microsoft intègre GPT dans tous ses produits (Bing, Office, Azure)
+- Microsoft devient le fournisseur cloud d'OpenAI
 
-> "Je n'ai pas compris la partie sur X. Peux-tu réexpliquer différemment ?"
+**Aujourd'hui**
 
-Elle ne se lassera jamais. Elle ne soupirera pas. Elle essaiera une autre approche.
+OpenAI est une entreprise privée, valorisée à plus de 80 milliards de dollars, largement contrôlée par Microsoft. La mission "bénéfique pour l'humanité" cohabite avec des objectifs commerciaux massifs.
 
-**Attention cependant :**
+**Ce que ça signifie pour vous :**
 
-L'explication sera fluide et convaincante, mais pas nécessairement exacte dans les détails. Pour apprendre les bases d'un sujet, c'est excellent. Pour une compréhension technique approfondie, vérifiez avec des sources fiables.
-
----
-
-### 3.3 Traduire (avec nuances)
-
-Les traducteurs automatiques existent depuis longtemps (Google Translate, DeepL). Mais les LLM apportent quelque chose de nouveau : la **traduction contextuelle**.
-
-> "Traduis cette phrase en anglais, mais garde un ton professionnel formel"
-
-> "Comment dirait-on cette expression française en anglais américain familier ?"
-
-> "Traduis ce texte en gardant le vouvoiement"
-
-L'IA comprend que la traduction n'est pas juste du mot-à-mot. Elle adapte le registre, le ton, les expressions idiomatiques.
-
-**Cas d'usage puissant : la relecture**
-
-> "J'ai écrit cet email en anglais. Peux-tu vérifier que ça sonne naturel pour un natif ?"
-
-L'IA va repérer les tournures françaises qui "sonnent bizarre" en anglais, les faux-amis, les maladresses culturelles.
+Quand vous utilisez ChatGPT, vos données transitent par l'infrastructure Microsoft Azure. Vos conversations alimentent potentiellement l'amélioration de produits Microsoft. L'utopie initiale a laissé place à un business model classique.
 
 ---
 
-### 3.4 Coder (avec supervision)
+### 5.2 Google/DeepMind : le géant qui a tout inventé (et raté ChatGPT)
 
-C'est peut-être le super-pouvoir le plus transformateur.
+**L'ironie de l'histoire**
 
-L'IA peut écrire du code fonctionnel dans presque tous les langages : Python, JavaScript, SQL, C++, et des dizaines d'autres.
+Google a inventé presque toutes les technologies qui rendent ChatGPT possible :
+- Le Transformer (2017) — la base de tous les LLM
+- BERT (2018) — les premiers modèles de langage massifs
+- Des décennies de recherche en IA chez Google Brain et DeepMind
 
-> "Écris une fonction Python qui trie une liste de nombres"
+Mais quand ChatGPT a explosé, Google a été pris de court.
 
-> "Crée une requête SQL pour trouver tous les clients qui ont acheté plus de 3 fois ce mois"
+**La panique (2022-2023)**
 
-> "Convertis ce code JavaScript en TypeScript"
+En interne, Google a déclaré un "code red". L'entreprise a précipité le lancement de Bard (devenu Gemini), avec des résultats embarassants au début.
 
-**Pour les développeurs :**
+**Aujourd'hui**
 
-L'IA est un copilote. Elle génère du code boilerplate, suggère des implémentations, explique des erreurs, propose des optimisations. Elle peut diviser par deux le temps passé sur des tâches routinières.
+Google rattrape son retard avec Gemini, qui rivalise avec GPT-4 sur de nombreux benchmarks. Mais l'entreprise a perdu sa position dominante perçue.
 
-**Pour les non-développeurs :**
+**L'avantage Google :**
 
-L'IA démocratise la programmation. Vous pouvez créer un petit script pour automatiser une tâche, même sans savoir coder. L'IA écrit, vous testez, vous demandez des corrections.
+Google a quelque chose qu'OpenAI n'a pas : l'accès à vos emails (Gmail), votre agenda (Calendar), vos documents (Drive), votre historique de recherche, vos déplacements (Maps). L'intégration de l'IA dans cet écosystème sera redoutable.
 
-**Attention critique :**
+**Ce que ça signifie pour vous :**
 
-Le code généré peut contenir des bugs, des failles de sécurité, des inefficacités. Ne mettez jamais en production du code IA sans l'avoir relu et testé. C'est un assistant, pas un remplaçant.
-
----
-
-### 3.5 Brainstormer et créer
-
-L'IA ne se fatigue jamais, ne juge jamais, et peut générer des dizaines d'idées en quelques secondes.
-
-**Brainstorming**
-
-> "Donne-moi 10 idées de cadeaux pour quelqu'un qui aime la cuisine et les voyages"
-
-> "Je cherche un nom pour ma startup de livraison de plantes. Propose 20 options avec leurs connotations"
-
-> "Quels sont les angles possibles pour un article sur le télétravail ?"
-
-**Création de contenu**
-
-> "Écris un haïku sur le métro parisien"
-
-> "Invente une histoire courte où un chat devient président"
-
-> "Crée une recette originale avec les ingrédients suivants : poulet, mangue, gingembre"
-
-**Déblocage créatif**
-
-Vous êtes bloqué sur un projet ? Demandez à l'IA de vous proposer des directions. Même si ses suggestions ne sont pas parfaites, elles peuvent débloquer votre propre créativité.
+Google sait déjà presque tout de vous. L'IA va amplifier cette connaissance. Gemini intégré à Gmail pourra rédiger des emails en connaissant tout votre historique de correspondance.
 
 ---
 
-### 3.6 Le vrai talent : être un assistant polyvalent
+### 5.3 Meta : l'open source comme stratégie
 
-Le véritable super-pouvoir de l'IA, c'est sa **polyvalence**.
+**Le pari Llama**
 
-Un expert humain est excellent dans son domaine, mais limité en dehors. L'IA est "assez bonne" dans presque tous les domaines.
+Meta (Facebook) a fait un choix surprenant : publier ses modèles de langage (Llama) en open source.
 
-Besoin de :
-- Rédiger un discours de mariage ?
-- Comprendre un relevé bancaire ?
-- Planifier un itinéraire de voyage ?
-- Créer un programme d'entraînement sportif ?
-- Écrire une lettre de réclamation ?
-- Expliquer un concept juridique ?
-- Générer des idées de menus pour la semaine ?
+Pourquoi ? Parce que Meta n'a pas le cloud à vendre. À la différence de Microsoft, Google et Amazon, Meta ne gagne pas d'argent en louant de la puissance de calcul.
 
-L'IA peut aider sur tout ça. Pas au niveau d'un expert, mais souvent suffisamment pour vos besoins quotidiens.
+**La stratégie :**
 
-**C'est un assistant généraliste toujours disponible.**
+- Si tout le monde utilise Llama, personne ne paie Microsoft ou Google pour les LLM
+- Meta bénéficie des améliorations faites par la communauté
+- Meta garde le contrôle de l'architecture fondamentale
+
+**Ce que ça signifie pour vous :**
+
+Llama permet à des entreprises et des développeurs de faire tourner des IA localement, sans envoyer vos données aux géants américains. C'est une alternative importante pour la vie privée.
+
+---
+
+### 5.4 Anthropic : les dissidents de la sécurité
+
+**L'origine**
+
+Anthropic a été fondée en 2021 par d'anciens dirigeants d'OpenAI, dont Dario Amodei, qui s'inquiétaient de la direction prise par l'entreprise.
+
+**Le positionnement**
+
+Anthropic se présente comme l'entreprise de l'IA "responsable". Son modèle Claude est conçu avec des garde-fous plus stricts. L'entreprise publie des recherches sur la sécurité de l'IA.
+
+**La réalité**
+
+Anthropic a levé des milliards auprès de Google et Amazon. L'entreprise est dans la même course commerciale que les autres, malgré son discours différent.
+
+**Claude vs ChatGPT**
+
+Claude est souvent considéré comme plus "prudent" — il refuse plus de requêtes, est moins susceptible de générer du contenu problématique. Pour certains, c'est un avantage. Pour d'autres, une limitation.
+
+---
+
+### 5.5 Mistral : le champion français (et européen ?)
+
+**L'espoir européen**
+
+Mistral AI, fondée en 2023 par d'anciens de Google et Meta, est la startup IA française la plus valorisée. En un an, elle est devenue une "licorne" (valorisation supérieure à 1 milliard).
+
+**Les modèles**
+
+Mistral publie des modèles performants, souvent en open source, qui rivalisent avec des modèles beaucoup plus gros. L'efficacité française face aux milliards américains.
+
+**Les limites**
+
+Mistral reste 100 fois plus petite qu'OpenAI en termes de ressources. L'entreprise a levé des fonds... auprès d'investisseurs américains et de Microsoft.
+
+**Ce que ça signifie pour vous :**
+
+Mistral est une bonne nouvelle pour la diversité. Mais l'Europe n'a pas encore de champion véritablement indépendant dans cette course.
+
+---
+
+### 5.6 La Chine : le rival invisible
+
+**Ce que l'Occident ne voit pas**
+
+Pendant que ChatGPT faisait les gros titres, la Chine développait ses propres LLM :
+- **Qwen** (Alibaba)
+- **Ernie** (Baidu)
+- **DeepSeek**
+- Des dizaines d'autres
+
+Ces modèles ne sont pas disponibles en Europe, mais ils sont utilisés par 1,4 milliard de Chinois.
+
+**La guerre des standards**
+
+Le monde se dirige vers deux écosystèmes IA parallèles : occidental (dominé par les US) et chinois. Avec des valeurs, des censures et des biais différents.
+
+**Ce que ça signifie pour vous :**
+
+L'IA que vous utilisez n'est pas neutre. Elle porte les valeurs, les biais et les priorités de ceux qui l'ont créée. L'IA américaine et l'IA chinoise ne donneront pas les mêmes réponses sur Taïwan, le Tibet ou Tiananmen.
+
+---
+
+### 5.7 L'Europe : arbitre ou colonie ?
+
+**Ce que l'Europe n'a pas**
+
+- Pas de LLM de classe mondiale (Mistral essaie, mais reste petit)
+- Pas de cloud souverain majeur (AWS, Azure et Google dominent)
+- Pas de Big Tech européenne dans l'IA
+
+**Ce que l'Europe a**
+
+- Le plus grand marché unique du monde (450 millions de consommateurs)
+- Une tradition réglementaire forte (RGPD)
+- La première loi mondiale sur l'IA (AI Act)
+
+**Le choix européen**
+
+L'Europe a décidé de jouer la carte de la régulation plutôt que de la production. Le pari : même si nous ne créons pas les modèles, nous pouvons définir les règles du jeu pour ceux qui veulent accéder à notre marché.
+
+Est-ce suffisant ? On en parlera au chapitre suivant.
 
 ---
 
 ### Ce que vous pouvez faire
 
-1. **Utilisez l'IA pour les premiers jets.** Ne partez jamais de zéro. Laissez l'IA générer un point de départ, puis affinez.
+1. **Sachez qui est derrière l'outil.** ChatGPT = OpenAI + Microsoft. Gemini = Google. Claude = Anthropic (+ Google/Amazon).
 
-2. **Posez des questions de suivi.** Si l'explication n'est pas claire, demandez plus de détails. L'IA ne se lasse pas.
+2. **Comprenez les incitations.** Ces entreprises veulent vos données, votre engagement, votre argent. Leurs produits sont conçus pour ça.
 
-3. **Demandez plusieurs options.** "Donne-moi 5 façons de formuler cette phrase" est plus utile qu'une seule suggestion.
+3. **Diversifiez.** N'utilisez pas qu'un seul outil. Essayez des alternatives, dont des modèles open source.
 
-4. **Supervisez le code.** Utilisez l'IA comme copilote, pas comme pilote automatique.
+4. **Privilégiez les options européennes quand possible.** Mistral, mais aussi des startups plus petites qui émergent.
 
-5. **Expérimentez.** Le meilleur moyen de découvrir les capacités de l'IA, c'est d'essayer des choses auxquelles vous n'auriez pas pensé.
+5. **Lisez les conditions d'utilisation.** (Oui, vraiment. Au moins les parties sur les données.)
 
 ---
 
-*Chapitre suivant : Les faiblesses cachées*
+*Chapitre suivant : La guerre de l'IA — L'Europe a-t-elle perdu ?*

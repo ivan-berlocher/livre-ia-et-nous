@@ -1,212 +1,271 @@
 # Chapitre 11
-## Questions à poser à votre employeur
+## Les emplois transformés
 
 ---
 
-Votre entreprise déploie l'IA. On vous donne accès à Copilot, à des "assistants intelligents", à des outils de productivité augmentée.
+L'IA ne va pas "voler" les emplois.
 
-C'est formidable.
+Elle va les transformer.
 
-Mais savez-vous ce que ces outils font de votre travail ?
+Certains disparaîtront.
+D'autres apparaîtront.
+La plupart changeront.
 
----
-
-### 11.1 "Copilot analyse-t-il mes emails ?"
-
-**Microsoft 365 Copilot**
-
-Oui, c'est exactement ce qu'il fait.
-
-Copilot a accès à :
-- Vos emails (Outlook)
-- Vos documents (OneDrive, SharePoint)
-- Vos conversations (Teams)
-- Votre calendrier
-- Vos notes (OneNote)
-
-C'est ce qui lui permet de "vous connaître" et de vous aider.
-
-**La question n'est pas si Copilot lit vos données.**
-La question est : qui d'autre y a accès ?
-
-**Ce que vous devez savoir :**
-
-- Les résumés générés par Copilot peuvent-ils être vus par votre manager ?
-- Les "insights" Copilot sont-ils partagés avec les RH ?
-- Les données Copilot sont-elles utilisées pour évaluer votre performance ?
+Voici ce que nous savons — et ce que nous ne savons pas.
 
 ---
 
-### 11.2 "Mon manager peut-il voir ce que je demande à l'IA ?"
+### 19.1 L'histoire se répète (mais différemment)
 
-**Réponse courte :** Ça dépend de la configuration.
+**À chaque révolution technologique, les mêmes peurs :**
 
-**Techniquement possible :**
+- 1800s : Les métiers à tisser vont détruire l'emploi
+- 1900s : L'électricité va rendre les travailleurs inutiles
+- 1950s : L'automatisation va créer le chômage de masse
+- 1990s : Les ordinateurs vont éliminer le travail de bureau
+- 2020s : L'IA va tout faire mieux que nous
 
-Microsoft 365 permet aux administrateurs de :
-- Voir les logs d'utilisation de Copilot
-- Analyser les prompts envoyés
-- Mesurer le "temps productif" vs "temps non-productif"
+**Ce qui s'est passé à chaque fois :**
 
-**Ce que beaucoup d'employeurs activent :**
+Des emplois ont disparu. D'autres sont apparus. Au total, plus d'emplois qu'avant.
 
-- Statistiques d'utilisation agrégées (qui utilise Copilot, combien)
-- Alertes sur certains mots-clés (discrimination, harcèlement, concurrence)
-- Surveillance des heures de connexion
+**Mais cette fois, c'est peut-être différent :**
 
-**Ce que vous pouvez faire :**
-
-Demandez explicitement à votre IT ou RH :
-- Quelles données d'utilisation IA sont collectées ?
-- Qui y a accès ?
-- Ces données sont-elles utilisées dans les évaluations ?
+Les révolutions précédentes touchaient le travail physique et les tâches répétitives.
+L'IA touche le travail cognitif.
+La vitesse de changement est plus rapide.
+L'échelle est mondiale.
 
 ---
 
-### 11.3 "Mes créations appartiennent-elles à l'entreprise ?"
+### 19.2 Les métiers les plus exposés
 
-**Le droit du travail français est clair :**
+**Forte exposition à l'automatisation par IA :**
 
-Ce que vous créez dans le cadre de votre travail appartient à votre employeur.
+| Métier | Tâches automatisables | Perspective |
+|--------|----------------------|-------------|
+| **Traducteur** | Traduction standard | Reste pour le culturel, littéraire |
+| **Comptable** | Saisie, rapprochement | Reste pour le conseil |
+| **Rédacteur technique** | Documentation standard | Reste pour le complexe |
+| **Service client niveau 1** | Réponses courantes | Reste pour l'escalade |
+| **Analyste de données junior** | Requêtes simples | Reste pour l'interprétation |
+| **Programmeur junior** | Code boilerplate | Reste pour l'architecture |
+| **Téléconseiller** | Scripts standards | Reste pour le relationnel |
 
-Cela inclut :
-- Le code que vous écrivez avec Copilot
-- Les textes que vous rédigez avec ChatGPT
-- Les images que vous générez avec DALL-E
-- Les idées que vous développez avec des assistants IA
+**Ce que ça signifie :**
 
-**Mais attention :**
-
-Si vous utilisez l'IA en dehors du travail, sur vos projets personnels, sur votre temps libre — ces créations vous appartiennent.
-
-**La zone grise :**
-
-- Vous utilisez le Copilot de l'entreprise pour un projet perso ?
-- Vous avez une idée géniale pendant une session ChatGPT au bureau ?
-
-C'est flou. Clarifiez avec votre employeur avant de vous retrouver dans un conflit.
+Ces métiers ne disparaissent pas. Ils se transforment.
+La partie répétitive est automatisée.
+La partie à valeur ajoutée reste humaine.
 
 ---
 
-### 11.4 "L'IA évalue-t-elle ma performance ?"
+### 19.3 Les métiers les plus protégés
 
-**De plus en plus souvent : oui.**
+**Faible exposition à l'automatisation par IA :**
 
-Les outils RH modernes utilisent l'IA pour :
-- Analyser les emails et détecter le "sentiment"
-- Mesurer le "temps de réponse moyen"
-- Évaluer la "productivité" selon des métriques algorithmiques
-- Prédire le "risque de départ"
-- Identifier les "hauts potentiels"
+| Métier | Pourquoi protégé |
+|--------|-----------------|
+| **Soignant** | Contact humain irremplaçable |
+| **Artisan** | Savoir-faire physique |
+| **Enseignant** | Relation éducative |
+| **Manager** | Leadership, motivation |
+| **Thérapeute** | Empathie profonde |
+| **Créatif original** | Vision artistique unique |
+| **Entrepreneur** | Prise de risque, vision |
+| **Chercheur de pointe** | Innovation fondamentale |
 
-**Le problème :**
+**L'IA peut aider ces métiers.**
 
-Ces systèmes sont souvent opaques. Vous êtes évalué par des algorithmes dont vous ne connaissez pas les critères.
-
-**Vos droits (RGPD) :**
-
-- Vous avez le droit de savoir si des décisions automatisées vous concernent
-- Vous avez le droit de contester ces décisions
-- L'entreprise doit vous informer de l'utilisation de l'IA dans les processus RH
-
----
-
-### 11.5 Vos droits en tant que salarié
-
-**Le RGPD vous protège, même au travail.**
-
-L'employeur doit :
-- Informer sur les traitements de données
-- Justifier la finalité (pourquoi ces données ?)
-- Limiter la collecte au nécessaire
-- Respecter la vie privée (même au travail, il y a des limites)
-
-**Le Code du travail ajoute :**
-
-- Information préalable sur tout dispositif de surveillance (Article L1222-4)
-- Proportionnalité : la surveillance doit être justifiée par un intérêt légitime
-- Consultation du CSE avant déploiement d'outils de surveillance
-
-**En pratique :**
-
-Si votre entreprise déploie un outil IA sans vous informer de ce qu'il collecte, elle est en infraction.
+Elle ne peut pas les remplacer.
+Le contact humain, le jugement, la créativité authentique restent hors de portée.
 
 ---
 
-### 11.6 Checklist pour les salariés
+### 19.4 Les nouveaux métiers
 
-| # | Question à poser | À qui la poser |
-|---|------------------|----------------|
-| 1 | **Quels outils IA sont déployés ?** | IT, Direction |
-| 2 | **Quelles données ces outils collectent-ils ?** | IT, DPO |
-| 3 | **Qui a accès aux données de mon utilisation ?** | IT, DPO |
-| 4 | **Ces données sont-elles utilisées pour m'évaluer ?** | RH |
-| 5 | **Ai-je été informé conformément au RGPD ?** | DPO |
-| 6 | **Le CSE a-t-il été consulté ?** | Représentants du personnel |
-| 7 | **Puis-je refuser d'utiliser certains outils ?** | RH, Direction |
-| 8 | **Que se passe-t-il si je quitte l'entreprise ?** | RH |
-| 9 | **Y a-t-il une charte d'utilisation de l'IA ?** | RH, Juridique |
-| 10 | **Où puis-je signaler un problème ?** | DPO, CSE |
+**Des emplois qui n'existaient pas il y a 5 ans :**
 
----
+| Métier émergent | Description |
+|-----------------|-------------|
+| **Prompt engineer** | Optimiser les interactions avec les LLM |
+| **AI trainer** | Entraîner et affiner les modèles |
+| **AI ethics officer** | Garantir l'usage responsable de l'IA |
+| **AI auditor** | Vérifier les biais et la conformité |
+| **Human-AI coordinator** | Gérer la collaboration homme-machine |
+| **AI content moderator** | Superviser les contenus générés |
+| **Synthetic media specialist** | Créer des médias IA de qualité |
 
-### Le rôle du DPO (Délégué à la Protection des Données)
+**Et des métiers qu'on n'imagine pas encore.**
 
-Votre entreprise a (probablement) un DPO.
-
-C'est la personne à contacter pour :
-- Toute question sur vos données personnelles
-- Exercer vos droits RGPD
-- Signaler un problème de confidentialité
-- Comprendre comment l'IA traite vos informations
-
-**Comment le trouver :**
-
-- Intranet de l'entreprise
-- Service juridique ou conformité
-- Demandez à votre manager
-
-**Si votre entreprise n'a pas de DPO identifiable :**
-
-C'est un signal d'alerte. Les entreprises de plus de 250 salariés (ou qui traitent des données sensibles à grande échelle) sont obligées d'en avoir un.
+En 2005, personne n'imaginait "community manager" ou "data scientist".
+Les métiers de 2030 n'existent pas encore.
 
 ---
 
-### Modèle de question à votre employeur
+### 19.5 La transformation des métiers existants
 
-> Objet : Demande d'information sur l'utilisation de l'IA
->
-> Bonjour,
->
-> Suite au déploiement de [nom de l'outil IA] dans notre entreprise, je souhaiterais comprendre :
->
-> 1. Quelles données professionnelles sont analysées par cet outil ?
-> 2. Ces données sont-elles partagées avec Microsoft/OpenAI/autre ?
-> 3. Les informations générées (résumés, insights) sont-elles accessibles à ma hiérarchie ?
-> 4. Ces données sont-elles utilisées dans l'évaluation de ma performance ?
-> 5. Le CSE a-t-il été consulté avant le déploiement ?
->
-> Je fais cette demande dans le cadre de mon droit à l'information (RGPD, Article 13).
->
-> Merci de votre réponse.
->
-> Cordialement,
-> [Votre nom]
+**L'IA ne remplace pas le métier. Elle change la façon de l'exercer.**
+
+**Médecin :**
+
+- Avant IA : Diagnostic basé sur l'expérience et quelques examens
+- Avec IA : Diagnostic assisté par analyse de données massives
+- Valeur humaine : Relation patient, décision éthique, empathie
+
+**Avocat :**
+
+- Avant IA : Recherche juridique manuelle, rédaction chronophage
+- Avec IA : Recherche automatisée, rédaction assistée
+- Valeur humaine : Stratégie, plaidoirie, conseil personnalisé
+
+**Enseignant :**
+
+- Avant IA : Cours standardisés, correction manuelle
+- Avec IA : Contenu personnalisé, correction automatique
+- Valeur humaine : Inspiration, accompagnement, exemple
+
+**Journaliste :**
+
+- Avant IA : Recherche, rédaction, vérification manuelles
+- Avec IA : Veille automatisée, rédaction assistée, fact-checking accéléré
+- Valeur humaine : Enquête, analyse, point de vue
+
+---
+
+### 19.6 Les compétences de demain
+
+**Ce que l'IA fait mieux que vous :**
+
+- Traiter de grandes quantités d'informations
+- Exécuter des tâches répétitives
+- Produire du contenu standard rapidement
+- Analyser des patterns dans les données
+- Être disponible 24/7
+
+**Ce que vous faites mieux que l'IA :**
+
+| Compétence | Pourquoi précieuse |
+|------------|-------------------|
+| **Pensée critique** | Évaluer, questionner, remettre en cause |
+| **Créativité originale** | Créer du nouveau, pas recombiner |
+| **Intelligence émotionnelle** | Comprendre et gérer les émotions |
+| **Adaptabilité** | Faire face à l'imprévu |
+| **Communication complexe** | Persuader, négocier, inspirer |
+| **Collaboration** | Travailler en équipe diverse |
+| **Éthique** | Distinguer le bien du mal |
+| **Apprentissage continu** | S'adapter aux nouvelles situations |
+
+**Investissez dans ces compétences.**
+
+---
+
+### 19.7 Comment se préparer
+
+**Si vous êtes en activité :**
+
+1. **Évaluez votre exposition** : Quelle partie de votre travail est automatisable ?
+2. **Identifiez votre valeur ajoutée** : Que faites-vous que l'IA ne peut pas faire ?
+3. **Développez des compétences complémentaires** : Apprenez à utiliser l'IA comme outil
+4. **Restez curieux** : Suivez les évolutions de votre secteur
+5. **Construisez votre réseau** : Les relations humaines restent précieuses
+
+**Si vous êtes en formation :**
+
+1. **Ne vous spécialisez pas trop tôt** : Les spécialités d'aujourd'hui seront peut-être obsolètes
+2. **Apprenez à apprendre** : La capacité d'adaptation vaut plus que les connaissances
+3. **Développez des compétences transversales** : Communication, leadership, créativité
+4. **Maîtrisez l'IA comme outil** : Pas besoin d'être expert, mais être utilisateur avancé
+5. **Gardez une expertise profonde quelque part** : Les généralistes + IA peuvent être remplacés ; les experts + IA sont précieux
+
+---
+
+### 19.8 La question de la reconversion
+
+**Pour ceux dont le métier est fortement impacté :**
+
+| Situation | Stratégies possibles |
+|-----------|---------------------|
+| **Métier en déclin rapide** | Reconversion vers un métier connexe |
+| **Métier en transformation** | Montée en compétences sur la partie haute |
+| **Métier stable mais menacé à terme** | Diversification, formation continue |
+| **Proche de la retraite** | Adaptation minimale, transmission |
+
+**Les dispositifs existants en France :**
+
+- **CPF** (Compte Personnel de Formation) : Utilisez vos droits
+- **Conseil en évolution professionnelle** : Gratuit, disponible pour tous
+- **VAE** (Validation des Acquis de l'Expérience) : Faites reconnaître votre expérience
+- **Transitions collectives** : Pour les reconversions sectorielles
+- **France Travail** : Accompagnement si perte d'emploi
+
+---
+
+### 19.9 Le débat sur le partage des gains
+
+**L'IA augmente la productivité. Qui en bénéficie ?**
+
+Options de redistribution débattues :
+
+| Option | Description | Position politique |
+|--------|-------------|-------------------|
+| **Revenu universel** | Revenu de base pour tous | Gauche/transpartisan |
+| **Réduction du temps de travail** | Travailler moins, partager le travail | Gauche |
+| **Formation massive** | Préparer aux métiers de demain | Centre |
+| **Taxation des robots** | Financer la transition | Diverses |
+| **Laisser-faire** | Le marché s'adaptera | Droite libérale |
+
+**Ce n'est pas une question technique.**
+
+C'est une question politique.
+Comment voulons-nous partager les fruits de l'automatisation ?
+
+---
+
+### 19.10 Ni utopie ni dystopie
+
+**Le scénario utopique :**
+
+L'IA nous libère du travail pénible.
+Nous avons plus de temps pour créer, aimer, vivre.
+Les gains de productivité sont partagés.
+Chacun trouve sa place.
+
+**Le scénario dystopique :**
+
+L'IA concentre la richesse chez quelques-uns.
+Le travail devient précarisé.
+Beaucoup sont laissés pour compte.
+Les inégalités explosent.
+
+**Le scénario réaliste :**
+
+Un peu des deux.
+Des gagnants et des perdants.
+Une transition difficile mais gérable.
+Des choix collectifs à faire.
+
+**Ce qui déterminera l'issue :**
+
+Pas la technologie.
+Nos choix politiques.
+Notre capacité à nous organiser.
+Notre volonté de partager.
 
 ---
 
 ### Ce que vous pouvez faire
 
-1. **Identifiez le DPO de votre entreprise.** Si vous ne savez pas qui c'est, demandez.
+1. **Évaluez honnêtement votre situation.** Où êtes-vous sur le spectre de l'automatisation ?
 
-2. **Posez les questions avant d'utiliser les outils.** Ne découvrez pas après coup ce qui est collecté.
+2. **Investissez dans vos compétences uniques.** Ce que l'IA ne peut pas (encore) faire.
 
-3. **Lisez les chartes et politiques.** Beaucoup d'entreprises ont des documents sur l'IA qu'on ne lit jamais.
+3. **Apprenez à utiliser l'IA.** Mieux vaut être celui qui utilise l'IA que celui qui est remplacé par elle.
 
-4. **Parlez à vos représentants.** Le CSE doit être informé et peut vous défendre.
+4. **Participez au débat social.** Les choix de redistribution nous concernent tous.
 
-5. **Soyez prudent dans vos usages.** N'écrivez rien dans Copilot que vous ne voudriez pas voir dans votre dossier RH.
+5. **Restez humain.** C'est votre avantage compétitif ultime.
 
 ---
 
-*Chapitre suivant : Questions à poser aux politiques*
+*Chapitre suivant : L'éducation repensée*

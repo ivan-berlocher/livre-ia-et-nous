@@ -17,7 +17,7 @@ Gardez-le à portée de main.
 Intelligence artificielle générale. Une IA hypothétique qui serait capable de faire tout ce qu'un humain peut faire intellectuellement. N'existe pas encore. Peut-être n'existera jamais.
 
 **Agent**
-Un système IA capable d'effectuer des actions autonomes (pas seulement répondre à des questions). Exemple : un agent qui peut réserver un vol, envoyer un email, modifier un document.
+Entité logicielle autonome, définie par un rôle et un domaine, capable de percevoir, raisonner et agir dans les limites de règles explicites. Contrairement à un simple chatbot qui répond à des questions, un agent peut planifier des séquences d'actions, utiliser des outils, et poursuivre un objectif. **Attention :** un vrai agent (au sens rigoureux) est *responsable* de ce qu'il produit, doit pouvoir expliquer ses décisions, et laisse des traces vérifiables. Sans ces propriétés, ce n'est pas un agent — c'est une fonction avec du marketing. Les "agents autonomes" actuels (2024-2025) sont souvent des démos impressionnantes mais sans garanties de fiabilité.
 
 **Algorithme**
 Une suite d'instructions pour résoudre un problème. Comme une recette de cuisine, mais pour un ordinateur.

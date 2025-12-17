@@ -1,167 +1,277 @@
 # Chapitre 7
-## Le modèle économique (suivez l'argent)
+## Questions à poser — et réponses à exiger
 
 ---
 
-Pour comprendre l'IA, suivez l'argent.
+Vous utilisez l'IA tous les jours. Les entreprises, votre employeur, les services publics la déploient autour de vous.
 
-Qui paie ? Qui gagne ? Pourquoi ChatGPT est-il "gratuit" ? Ces questions révèlent les vraies motivations des géants de la tech — et ce que vous leur donnez sans le savoir.
+Mais qui vous a expliqué ce qu'elle fait de vos données ?
 
----
-
-### 7.1 Pourquoi ChatGPT est "gratuit" (spoiler : vous êtes le produit)
-
-Ouvrez un compte ChatGPT. Posez des questions pendant des heures. Ne payez rien.
-
-Comment est-ce possible ?
-
-**Le modèle freemium**
-
-ChatGPT offre une version gratuite pour une raison simple : vous attirer, vous habituer, vous rendre dépendant. Ensuite, vous passerez (peut-être) à la version payante (20€/mois) pour avoir accès aux fonctionnalités premium.
-
-**Mais ce n'est pas tout.**
-
-Même si vous ne payez jamais, vous êtes rentable. Voici comment :
-
-**1. Vos données améliorent le produit**
-
-Chaque conversation que vous avez avec ChatGPT peut être utilisée pour améliorer les futurs modèles. Vos questions, vos reformulations, vos corrections — tout cela est de l'or pour l'entraînement.
-
-**2. Vous générez des effets de réseau**
-
-Plus de gens utilisent ChatGPT, plus ça crée du buzz, plus d'autres gens veulent l'essayer. Vous êtes le marketing.
-
-**3. Vous validez le produit**
-
-Vos usages montrent ce qui marche et ce qui ne marche pas. Vous êtes le département qualité gratuit.
-
-**La vraie économie**
-
-Si un service est gratuit, vous n'êtes pas le client. Vous êtes le produit.
-
-C'était vrai pour Google, Facebook, et les réseaux sociaux. C'est vrai pour l'IA.
+Ce chapitre est votre guide de questions. Des questions précises, avec les réponses que vous devriez obtenir — et comment réagir si vous ne les obtenez pas.
 
 ---
 
-### 7.2 Le coût réel d'entraîner un LLM
-
-Créer un modèle comme GPT-4 coûte une fortune.
-
-**L'entraînement**
-
-- Des dizaines de milliers de GPU (cartes graphiques spécialisées à ~30 000€ pièce)
-- Des mois de calcul continu
-- Une consommation électrique colossale
-
-Estimation pour GPT-4 : **entre 50 et 100 millions de dollars** rien que pour l'entraînement.
-
-**L'inférence**
-
-Ensuite, chaque fois que vous posez une question, le modèle doit "tourner" sur des serveurs. C'est l'inférence.
-
-À l'échelle de 100 millions d'utilisateurs, ça représente des millions de dollars par jour en coûts de serveurs.
-
-**Le paradoxe économique**
-
-OpenAI perd de l'argent sur chaque utilisateur gratuit. L'entreprise brûle des milliards en espérant :
-- Convertir des utilisateurs en payants
-- Vendre des API aux entreprises
-- Prendre une position dominante avant que les coûts baissent
-
-C'est un pari massif. Qui marche tant que les investisseurs y croient.
+# PARTIE A : Questions aux entreprises tech
 
 ---
 
-### 7.3 L'API : comment les entreprises paient
+### 7.1 "Mes conversations sont-elles lues par des humains ?"
 
-Le vrai business d'OpenAI n'est pas vous. C'est les entreprises.
+**La vraie réponse : OUI, potentiellement.**
 
-**L'API**
+OpenAI, Google, et les autres emploient des équipes de "reviewers" qui lisent des échantillons de conversations pour :
+- Améliorer la qualité des réponses
+- Détecter les abus
+- Entraîner les systèmes de modération
 
-Une API (Application Programming Interface) permet à une entreprise d'intégrer ChatGPT dans ses propres produits. Votre banque, votre assurance, votre service client — beaucoup utilisent déjà l'API d'OpenAI en coulisses.
+Ce n'est pas de la surveillance systématique. Mais vos conversations peuvent être sélectionnées aléatoirement.
 
-**Le prix**
-
-Vous payez par "token" (environ 0,75 mot). Quelques centimes pour une réponse simple. Mais à l'échelle, ça chiffre vite :
-
-- Une entreprise qui traite 1 million de requêtes par jour → des dizaines de milliers d'euros par mois
-- Un usage intensif → des millions par an
-
-**Le verrouillage**
-
-Une fois qu'une entreprise a intégré l'API d'OpenAI dans ses systèmes, il est coûteux de changer. C'est le "lock-in" — le verrouillage.
-
-C'est pourquoi la conquête de parts de marché est si agressive. Chaque entreprise convertie est une source de revenus récurrents pour des années.
+**Ce que ça signifie :**
+- Ne partagez jamais d'informations que vous ne voudriez pas qu'un inconnu lise
+- Il n'y a pas de confidentialité absolue
 
 ---
 
-### 7.4 La course aux données : votre texte vaut de l'or
+### 7.2 "Mes données servent-elles à entraîner le modèle ?"
 
-Pour entraîner un LLM, il faut du texte. Beaucoup de texte.
+| Service | Par défaut | Opt-out possible ? |
+|---------|------------|-------------------|
+| **ChatGPT (gratuit)** | OUI | Oui (Settings → Data Controls) |
+| **Gemini (gratuit)** | OUI | Oui |
+| **Claude (gratuit)** | OUI | Oui |
+| **Copilot (gratuit)** | OUI | Limité |
+| **Versions payantes/entreprise** | Généralement NON | Vérifiez les conditions |
 
-**D'où viennent les données ?**
-
-- Wikipédia (gratuit, mais limité)
-- Livres numérisés (parfois sans l'accord des auteurs)
-- Le web entier (aspiré par des "crawlers")
-- Les réseaux sociaux (Reddit, Twitter...)
-- Et... vos conversations avec l'IA
-
-**Le problème du consentement**
-
-Beaucoup de ces données ont été collectées sans demander l'avis des auteurs originaux. Des procès sont en cours aux États-Unis et en Europe.
-
-**La valeur de vos données**
-
-Quand vous corrigez ChatGPT ("Non, ce n'est pas ça, voici la bonne réponse"), vous faites du travail d'annotation gratuit. Ce travail vaut normalement plusieurs dollars de l'heure quand il est fait par des professionnels.
-
-Multipliez par 100 millions d'utilisateurs : c'est une main-d'œuvre gratuite colossale.
+**La règle générale :**
+Version gratuite = vos données peuvent être utilisées.
+Version payante/entreprise = généralement non.
 
 ---
 
-### 7.5 Le cloud comme dépendance stratégique
+### 7.3 "Où sont stockées mes données ?"
 
-Le dernier élément du puzzle économique : le cloud.
+**OpenAI** → Serveurs Microsoft Azure, principalement aux États-Unis. Soumis au Cloud Act.
 
-**Où tourne l'IA ?**
+**Google** → Datacenters mondiaux. Stockage Europe possible (pas garanti par défaut).
 
-Pas sur votre ordinateur. Sur des serveurs distants, dans des datacenters géants.
+**Microsoft** → Azure global. Options de résidence pour les clients entreprise.
 
-**Qui possède ces datacenters ?**
+**Pourquoi c'est important :**
+- Le lieu de stockage détermine quel droit s'applique
+- Les données aux US sont accessibles au gouvernement américain (Cloud Act)
+- Même si stockées en Europe, une entreprise américaine peut être contrainte de les fournir
 
-- Amazon (AWS) : ~32% du marché mondial
-- Microsoft (Azure) : ~23%
-- Google (GCP) : ~10%
-- Alibaba, autres : le reste
+---
 
-**Presque aucun datacenter européen de cette échelle.**
+### 7.4 "Que se passe-t-il si je supprime mon compte ?"
 
-**La dépendance**
+**La réalité :**
+"Supprimer" ne signifie jamais "effacer instantanément et définitivement".
 
-Utiliser l'IA, c'est envoyer vos données vers des serveurs américains, gérés par des entreprises américaines, soumises au droit américain.
+- Les données traversent caches, sauvegardes, systèmes d'archivage
+- OpenAI conserve des données "désidentifiées" pour l'entraînement
+- La suppression complète prend des semaines/mois et n'est jamais 100% garantie
 
-Le Cloud Act de 2018 permet au gouvernement américain d'exiger l'accès aux données stockées par des entreprises américaines, même si les serveurs sont physiquement en Europe.
+---
 
-**Le coût de la dépendance**
+### 7.5 Checklist : 10 questions avant d'utiliser un outil IA
 
-- Pas de contrôle sur vos données
-- Pas de levier en cas de conflit
-- Des milliards d'euros qui partent aux États-Unis
+| # | Question | Réponse à chercher |
+|---|----------|-------------------|
+| 1 | **Qui est derrière ?** | Entreprise, pays, investisseurs |
+| 2 | **Où sont stockées mes données ?** | USA, Europe, autre |
+| 3 | **Mes données servent-elles à l'entraînement ?** | Oui/Non, opt-out possible ? |
+| 4 | **Des humains peuvent-ils lire mes données ?** | Pour modération, amélioration ? |
+| 5 | **Puis-je exporter mes données ?** | Format, facilité |
+| 6 | **Puis-je supprimer mes données ?** | Comment, délai réel |
+| 7 | **Conformité RGPD ?** | DPO, procédures |
+| 8 | **Politique de sécurité ?** | Chiffrement, audits |
+| 9 | **Si l'entreprise est vendue ?** | Transfert des données |
+| 10 | **Alternatives plus respectueuses ?** | Options locales, européennes |
+
+---
+
+# PARTIE B : Questions à votre employeur
+
+---
+
+### 7.6 "Copilot analyse-t-il mes emails ?"
+
+**Microsoft 365 Copilot : OUI, c'est exactement ce qu'il fait.**
+
+Copilot a accès à :
+- Vos emails (Outlook)
+- Vos documents (OneDrive, SharePoint)
+- Vos conversations (Teams)
+- Votre calendrier
+- Vos notes (OneNote)
+
+**La question n'est pas si Copilot lit vos données.**
+La question est : **qui d'autre y a accès ?**
+
+Demandez :
+- Les résumés Copilot peuvent-ils être vus par votre manager ?
+- Les données sont-elles utilisées pour évaluer votre performance ?
+
+---
+
+### 7.7 "Mon manager peut-il voir ce que je demande à l'IA ?"
+
+**Réponse : ça dépend de la configuration.**
+
+**Techniquement possible :**
+- Voir les logs d'utilisation de Copilot
+- Analyser les prompts envoyés
+- Mesurer le "temps productif" vs "temps non-productif"
+- Alertes sur certains mots-clés
+
+**Ce que vous pouvez faire :**
+Demandez explicitement à IT ou RH :
+1. Quelles données d'utilisation IA sont collectées ?
+2. Qui y a accès ?
+3. Ces données sont-elles utilisées dans les évaluations ?
+
+---
+
+### 7.8 "L'IA évalue-t-elle ma performance ?"
+
+**De plus en plus souvent : OUI.**
+
+Les outils RH modernes utilisent l'IA pour :
+- Analyser les emails et détecter le "sentiment"
+- Mesurer le temps de réponse moyen
+- Évaluer la "productivité" algorithmique
+- Prédire le "risque de départ"
+- Identifier les "hauts potentiels"
+
+**Vos droits (RGPD) :**
+- Vous avez le droit de **savoir** si des décisions automatisées vous concernent
+- Vous avez le droit de **contester** ces décisions
+- L'entreprise **doit vous informer** de l'utilisation de l'IA dans les processus RH
+
+---
+
+### 7.9 "Mes créations appartiennent-elles à l'entreprise ?"
+
+**Le droit du travail français est clair :**
+Ce que vous créez dans le cadre de votre travail appartient à votre employeur.
+
+Cela inclut :
+- Le code que vous écrivez avec Copilot
+- Les textes que vous rédigez avec ChatGPT
+- Les images que vous générez avec DALL-E
+
+**La zone grise :**
+Vous utilisez le Copilot de l'entreprise pour un projet perso ? Clarifiez **avant** de vous retrouver dans un conflit.
+
+---
+
+### 7.10 Vos droits en tant que salarié
+
+**Le RGPD vous protège, même au travail.**
+
+L'employeur doit :
+- Informer sur les traitements de données
+- Justifier la finalité
+- Respecter la vie privée (même au travail, il y a des limites)
+
+**Le Code du travail ajoute :**
+- Information préalable sur tout dispositif de surveillance (Article L1222-4)
+- Consultation du CSE avant déploiement d'outils de surveillance
+
+**En pratique :**
+Si votre entreprise déploie un outil IA sans vous informer, elle est en infraction.
+
+---
+
+### 7.11 Checklist pour les salariés
+
+| # | Question | À qui la poser |
+|---|------------------|----------------|
+| 1 | Quels outils IA sont déployés ? | IT, Direction |
+| 2 | Quelles données sont collectées ? | IT, DPO |
+| 3 | Qui a accès à mes données d'utilisation ? | IT, DPO |
+| 4 | Ces données servent-elles à m'évaluer ? | RH |
+| 5 | Ai-je été informé (RGPD) ? | DPO |
+| 6 | Le CSE a-t-il été consulté ? | Représentants du personnel |
+| 7 | Puis-je refuser certains outils ? | RH |
+| 8 | Y a-t-il une charte IA ? | RH, Juridique |
+
+---
+
+### 7.12 Le DPO : votre interlocuteur clé
+
+Votre entreprise a (probablement) un DPO (Délégué à la Protection des Données).
+
+**C'est la personne à contacter pour :**
+- Toute question sur vos données personnelles
+- Exercer vos droits RGPD
+- Signaler un problème de confidentialité
+
+**Comment le trouver :**
+- Intranet de l'entreprise
+- Service juridique ou conformité
+- Demandez à votre manager
+
+**Si pas de DPO identifiable :**
+Signal d'alerte. Les entreprises de +250 salariés sont obligées d'en avoir un.
+
+---
+
+### Modèles de lettres
+
+**Aux entreprises tech :**
+
+> Objet : Demande d'information sur le traitement des données
+>
+> Madame, Monsieur,
+>
+> J'utilise votre service [nom] et je souhaite comprendre :
+> 1. Si mes conversations sont utilisées pour entraîner vos modèles
+> 2. Où mes données sont stockées
+> 3. Qui peut y avoir accès
+> 4. Comment demander leur suppression
+>
+> Cette demande est faite en application du RGPD.
+>
+> Cordialement,
+> [Votre nom]
+
+**À votre employeur :**
+
+> Objet : Demande d'information sur l'utilisation de l'IA
+>
+> Bonjour,
+>
+> Suite au déploiement de [nom de l'outil IA], je souhaiterais comprendre :
+> 1. Quelles données professionnelles sont analysées ?
+> 2. Ces données sont-elles partagées avec Microsoft/OpenAI ?
+> 3. Les insights sont-ils accessibles à ma hiérarchie ?
+> 4. Ces données servent-elles à évaluer ma performance ?
+> 5. Le CSE a-t-il été consulté ?
+>
+> Je fais cette demande (RGPD, Article 13).
+>
+> Cordialement,
+> [Votre nom]
 
 ---
 
 ### Ce que vous pouvez faire
 
-1. **Comprenez le deal.** Quand c'est gratuit, vous payez autrement — en données, en attention, en habitudes.
+**Avec les entreprises tech :**
 
-2. **Lisez les conditions.** Oui, c'est long. Cherchez au moins les sections sur les données.
+1. **Posez au moins UNE question** à un service que vous utilisez
+2. **Gardez la checklist** à portée de main avant d'adopter un nouvel outil
+3. **Votez avec vos pieds** — si un service ne respecte pas vos droits, changez
 
-3. **Désactivez le partage quand possible.** ChatGPT a une option pour ne pas utiliser vos conversations pour l'entraînement. Activez-la.
+**Avec votre employeur :**
 
-4. **Préférez les modèles locaux.** Des alternatives comme Llama peuvent tourner sur votre ordinateur, sans envoyer de données.
-
-5. **Soutenez les alternatives européennes.** Même si elles sont imparfaites, elles offrent une diversité nécessaire.
+1. **Identifiez le DPO** de votre entreprise
+2. **Posez les questions AVANT** d'utiliser les outils
+3. **Parlez à vos représentants** — le CSE doit être informé
+4. **Soyez prudent** — n'écrivez rien dans Copilot que vous ne voudriez pas voir dans votre dossier RH
 
 ---
 
-*Chapitre suivant : Vos données, leur trésor*
+*Chapitre suivant : Évaluer et se protéger — guide pratique*

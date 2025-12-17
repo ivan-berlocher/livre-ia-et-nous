@@ -247,10 +247,18 @@ Il est écrit pour :
 
 **Chapitre 18 : Ce qui arrive (2025-2030)**
 - 18.1 L'IA multimodale : texte + image + voix + vidéo
-- 18.2 Les agents autonomes : l'IA qui agit seule
-- 18.3 L'IA embarquée : dans votre téléphone, votre voiture
-- 18.4 La personnalisation : une IA qui vous "connaît"
-- 18.5 Le prix qui baisse : l'IA accessible à tous
+- 18.2 Qu'est-ce qu'un Agent, vraiment ?
+- 18.3 Open Source, Open Data, Open Agents
+- 18.4 L'Europe : le troisième modèle
+- 18.5 Vers une informatique invisible
+- 18.6 Vers une IA gouvernable : ce que nous pourrions exiger
+- 18.7 Ce qui est probable
+- 18.8 Ce qui est incertain
+- 18.9 Ce qui est fantasmé
+- 18.10 Les wildcards
+- 18.11 Ce que ça signifie pour vous
+- 18.12 Scénarios pour 2030
+- 18.13 Les questions que nous devrons trancher
 
 **Chapitre 19 : Ce qui inquiète (légitimement)**
 - 19.1 La désinformation industrialisée
@@ -279,26 +287,29 @@ Il est écrit pour :
 ### Partie VI — Aller plus loin
 *Pour ceux qui veulent creuser*
 
-**Chapitre 22 : Comment fonctionne vraiment un LLM**
-- 22.1 Les transformers (explication accessible)
-- 22.2 L'entraînement : pré-training, fine-tuning, RLHF
-- 22.3 Les embeddings : comment l'IA "comprend" les mots
-- 22.4 Le contexte : la fenêtre de mémoire
-- 22.5 Les limites techniques fondamentales
+**Chapitre 22 : Ressources pour comprendre l'IA**
+- 22.1 Pour commencer (débutant)
+- 22.2 Pour approfondir (intermédiaire)
+- 22.3 Pour les experts
+- 22.4 Pour agir (citoyens)
+- 22.5 Pour expérimenter
+- 22.6 Pour les professionnels
+- 22.7 Glossaire essentiel
+- 22.8 Les personnes à suivre
+- 22.9 Rester informé sans être submergé
+- 22.10 Pour les enseignants — Intégrer l'IA en classe
+- 22.11 Pour les parents — Accompagner ses enfants
+- 22.12 Créer sa propre opinion
+- 22.13 À éviter — Sources non fiables
 
-**Chapitre 23 : L'architecture Harmonia**
-- 23.1 Pourquoi séparer "comprendre" et "agir"
-- 23.2 Le Gouverneur : des règles vérifiables
-- 23.3 L'Alter Ego : une IA qui vous connaît (avec votre permission)
-- 23.4 Le document .life : reprendre le contrôle de ses données
-- 23.5 Une proposition ouverte pour une IA gouvernable
+**Chapitre 23 : Lexique technique démystifié**
+- Dictionnaire de A à Z des termes essentiels de l'IA
+- Définitions claires et accessibles
+- De "Agent" à "Zero-shot"
 
-**Chapitre 24 : Ressources pour continuer**
-- 24.1 Livres recommandés (accessibles et techniques)
-- 24.2 Podcasts et chaînes YouTube
-- 24.3 Newsletters à suivre
-- 24.4 Cours en ligne gratuits
-- 24.5 Communautés francophones
+**Chapitre 24 : Conclusion — Le citoyen augmenté**
+- Ni technophobe, ni naïf : lucide
+- L'action plutôt que la peur
 
 ---
 
@@ -310,42 +321,10 @@ Il est écrit pour :
 
 ---
 
-## Annexes
-
-**A. Glossaire du cyber citoyen**
-- 50 termes expliqués simplement (LLM, token, hallucination, RLHF, API, fine-tuning...)
-
-**B. Checklist : Avant d'utiliser un nouvel outil IA**
-- 15 questions à se poser
-- Template à imprimer
-
-**C. Vos droits en Europe (RGPD + AI Act)**
-- Résumé pratique
-- Comment exercer ses droits
-- À qui se plaindre
-
-**D. Ressources par profil**
-- Pour les curieux (livres, podcasts)
-- Pour les enseignants (programmes, activités)
-- Pour les professionnels (formations, certifications)
-- Pour les parents (guides, outils de contrôle)
-
-**E. L'architecture Harmonia — Pour aller plus loin**
-- Spécification technique du document .life
-- Exemples commentés
-- Lien vers le code open source
-
-**F. Bibliographie**
-- Références accessibles
-- Références techniques
-- Rapports institutionnels (UE, CNIL, etc.)
-
----
-
 ## Notes sur l'approche de ce livre
 
 **Principe 1 : Pas de jargon inutile**
-Chaque terme technique est expliqué la première fois qu'il apparaît. Un glossaire complet est en annexe.
+Chaque terme technique est expliqué la première fois qu'il apparaît. Le chapitre 23 contient un glossaire complet.
 
 **Principe 2 : Le doute comme méthode**
 Ce livre n'a pas toutes les réponses. Il a les bonnes questions.
@@ -358,6 +337,13 @@ Chaque chapitre se termine par "Ce que vous pouvez faire".
 
 **Principe 5 : La technique au service du citoyen**
 Les chapitres techniques (Partie VI) sont optionnels. On peut comprendre l'essentiel sans eux.
+
+**Note sur les contenus pratiques :**
+Les ressources pratiques (checklists, modèles de lettres, ressources par profil) ont été intégrées directement dans les chapitres concernés pour faciliter la lecture :
+- Checklist d'évaluation → Chapitre 14
+- Droits RGPD et modèles de lettres → Chapitre 9
+- Ressources par profil (enseignants, parents) → Chapitre 22
+- Glossaire complet → Chapitre 23
 
 ---
 

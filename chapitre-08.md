@@ -1,187 +1,245 @@
 # Chapitre 8
-## Vos données, leur trésor
+## Évaluer et se protéger — guide pratique
 
 ---
 
-Chaque fois que vous tapez quelque chose dans ChatGPT, où va cette information ?
+Un nouvel outil IA sort chaque semaine. Chacun promet de révolutionner votre vie.
 
-C'est une question que presque personne ne pose. Et c'est un problème.
+Comment savoir lesquels valent le coup ? Comment protéger vos données au quotidien ?
 
----
-
-### 8.1 Ce qui se passe quand vous tapez dans ChatGPT
-
-Vous écrivez : "Mon fils de 8 ans a des difficultés en maths. Comment l'aider ?"
-
-Voici le trajet de cette information :
-
-**1. Transmission**
-
-Votre question quitte votre ordinateur, traverse Internet, et arrive sur des serveurs d'OpenAI (hébergés chez Microsoft Azure).
-
-**2. Traitement**
-
-Le modèle génère une réponse. Votre question et la réponse sont stockées.
-
-**3. Conservation**
-
-Par défaut, cette conversation est conservée. Pendant combien de temps ? Ça dépend des versions et des politiques — qui changent.
-
-**4. Utilisation potentielle**
-
-Sauf si vous avez désactivé cette option, votre conversation peut être :
-- Lue par des employés d'OpenAI (pour améliorer le service)
-- Utilisée pour entraîner les futurs modèles
-- Analysée pour détecter des abus
+Ce chapitre est votre guide pratique.
 
 ---
 
-### 8.2 Où vont vos conversations ?
-
-**Physiquement**
-
-Vos données sont stockées sur des serveurs Microsoft Azure, principalement aux États-Unis. Des copies peuvent exister dans d'autres régions.
-
-**Juridiquement**
-
-Ces données sont soumises au droit américain. Cela signifie :
-- Le Cloud Act permet au gouvernement US d'y accéder
-- Les tribunaux américains peuvent les demander
-- La FISA (loi de surveillance) peut s'appliquer
-
-**Concrètement**
-
-Si vous êtes un citoyen européen lambda, personne ne va probablement fouiller vos conversations sur ChatGPT. Mais le *potentiel* existe.
+# PARTIE A : Évaluer un outil IA avant de l'utiliser
 
 ---
 
-### 8.3 Qui peut les lire ? (humains et machines)
+### 8.1 La grille d'évaluation en 5 minutes
 
-**Les humains**
+**Avant d'utiliser un nouvel outil IA, passez-le au crible :**
 
-Oui, des employés d'OpenAI peuvent lire vos conversations. C'est dans les conditions d'utilisation.
+| Critère | Question | Score /5 |
+|---------|----------|----------|
+| **Transparence** | Qui est derrière ? Où sont mes données ? | |
+| **Utilité réelle** | Résout-il un vrai problème que j'ai ? | |
+| **Alternatives** | Existe-t-il des options sans IA ou plus éthiques ? | |
+| **Coût caché** | Que dois-je donner en échange ? | |
+| **Dépendance** | Puis-je m'en passer facilement ? | |
 
-Pourquoi ? Pour :
-- Améliorer le modèle
-- Détecter les abus
-- Répondre aux demandes légales
-
-Ce n'est pas de la surveillance active de tout le monde. Mais des conversations sont échantillonnées et examinées.
-
-**Les machines**
-
-Vos données alimentent des systèmes automatiques :
-- Détection de contenu problématique
-- Analyse des patterns d'utilisation
-- (Potentiellement) Entraînement des futurs modèles
+**Interprétation :**
+- **20-25** : À tester avec précaution
+- **15-19** : Risques significatifs, réfléchissez à deux fois
+- **10-14** : Probablement pas une bonne idée
+- **< 10** : Fuyez
 
 ---
 
-### 8.4 La différence entre "stocké" et "utilisé pour entraîner"
+### 8.2 Qui est derrière cet outil ?
 
-C'est une distinction cruciale que beaucoup de gens ne comprennent pas.
+**Les informations à chercher :**
 
-**Stocké**
+- **L'entreprise** : Nom, pays, taille, historique
+- **Les investisseurs** : Qui finance ? Quels intérêts ?
+- **Le modèle économique** : Comment gagnent-ils de l'argent ?
+- **Le track record** : Historique de scandales, de failles
 
-Votre conversation est conservée dans une base de données. Elle peut être retrouvée, relue, analysée.
+**Où chercher :**
+- Page "About" ou "À propos"
+- Crunchbase (investisseurs, levées de fonds)
+- Recherche Google "[nom] controversy"
 
-**Utilisé pour entraîner**
-
-Votre conversation est incorporée dans les données qui servent à créer la prochaine version du modèle. Elle devient, en quelque sorte, une partie permanente de l'IA.
-
-**La différence**
-
-- Une donnée stockée peut être supprimée sur demande
-- Une donnée utilisée pour l'entraînement est "digérée" — elle influence le modèle, mais n'est plus identifiable comme telle
-
-**OpenAI permet de refuser l'entraînement**
-
-Depuis 2023, vous pouvez aller dans les paramètres et désactiver l'utilisation de vos conversations pour l'entraînement. Mais c'est opt-out (il faut le faire activement), pas opt-in.
-
----
-
-### 8.5 Comment (essayer de) protéger vos données
-
-**Règle n°1 : Ne jamais partager d'informations sensibles**
-
-Jamais. Vraiment.
-
-❌ Pas de numéros de carte bancaire
-❌ Pas de mots de passe
-❌ Pas de numéros de sécurité sociale
-❌ Pas de données médicales détaillées
-❌ Pas de secrets professionnels
-❌ Pas de documents confidentiels
-
-**Règle n°2 : Désactiver l'entraînement**
-
-Sur ChatGPT : Settings → Data Controls → Chat History & Training → Désactiver
-
-Attention : cela désactive aussi l'historique. Vous ne pourrez pas retrouver vos anciennes conversations.
-
-**Règle n°3 : Utiliser des comptes non identifiables**
-
-Si vous voulez plus d'anonymat, utilisez une adresse email qui ne révèle pas votre identité.
-
-**Règle n°4 : Envisager des alternatives locales**
-
-Des modèles comme Llama peuvent tourner sur votre propre ordinateur. Rien n'est envoyé à l'extérieur.
+**Signaux d'alerte :**
+- ❌ Entreprise opaque, pas d'information sur les fondateurs
+- ❌ Financée par des fonds liés à certains États
+- ❌ Modèle économique flou ("gratuit" sans explication)
+- ❌ Historique de failles de sécurité
 
 ---
 
-### 8.6 Les options "privacy" : ce qu'elles font vraiment
+### 8.3 Que font-ils de vos données ?
 
-**ChatGPT — Mode sans historique**
+**Dans la politique de confidentialité, cherchez :**
 
-Quand vous désactivez l'historique :
-- Vos conversations ne sont pas sauvegardées dans votre compte
-- Elles ne sont pas utilisées pour l'entraînement
-- MAIS : elles sont quand même conservées 30 jours "pour abus" avant suppression
+| Question | Ce que ça révèle |
+|----------|-----------------|
+| **Collecte** | Quelles données ? Seulement ce que j'entre ? |
+| **Utilisation** | Améliorer le service ? Entraîner des modèles ? Publicité ? |
+| **Partage** | Avec qui ? Partenaires ? "Tiers" ? |
+| **Conservation** | Combien de temps ? |
+| **Droits** | Comment accéder, modifier, supprimer ? |
 
-**ChatGPT — Temporary Chat**
-
-Un mode encore plus éphémère, où même la mémoire de session est réduite.
-
-**ChatGPT Enterprise / API**
-
-Les versions payantes pour entreprises ont des garanties plus fortes : données non utilisées pour l'entraînement, suppression sur demande, parfois conformité RGPD explicite.
-
-**Le problème du "trust me"**
-
-Tout cela repose sur la confiance. Vous devez croire qu'OpenAI fait ce qu'elle dit. Il n'y a pas de vérification indépendante possible.
+**Les formulations à repérer :**
+- "Partager avec nos partenaires" → ⚠️ Qui sont-ils ?
+- "Pour améliorer nos services" → ⚠️ Inclut l'entraînement ?
+- "Conformément à la loi applicable" → ⚠️ Quelle loi ?
+- "Modifier cette politique à tout moment" → ⚠️ Sans prévenir ?
 
 ---
 
-### Cas concrets qui doivent vous alerter
+### 8.4 Le vrai test : données fictives d'abord
 
-**Le médecin qui demande un diagnostic**
+**Avant d'y mettre vos vraies informations :**
 
-Un médecin tape les symptômes d'un patient dans ChatGPT pour avoir une idée de diagnostic. Ces données médicales viennent de partir aux États-Unis.
+1. **Créez un compte avec une adresse email dédiée**
+2. **Utilisez des données fictives** (faux nom, fausse adresse)
+3. **Testez avec des contenus non sensibles**
+4. **Observez** : publicités ciblées ? Emails ? Notifications ?
+5. **Essayez de supprimer votre compte** : facile ou compliqué ?
 
-**L'avocat qui demande un conseil**
+---
 
-Un avocat copie-colle un contrat confidentiel pour demander une analyse. Ce contrat est maintenant sur les serveurs d'OpenAI.
+### 8.5 Les alternatives à considérer
 
-**L'employé qui résume un document interne**
+**Avant d'adopter un outil IA commercial :**
 
-Un employé utilise ChatGPT pour résumer un rapport stratégique de son entreprise. Ce rapport est potentiellement accessible à OpenAI.
+| Question | Exemples d'alternatives |
+|----------|------------------------|
+| Puis-je faire sans IA ? | Méthodes traditionnelles |
+| Version open source ? | Ollama, LocalAI, Whisper local |
+| Options européennes ? | Mistral, OVHcloud, Scaleway |
+| Auto-hébergement ? | Solutions on-premise |
+| Coopératives ? | Framasoft, Chatons |
 
-**Tous ces cas sont réels.** Ils se produisent tous les jours.
+**Le principe de subsidiarité numérique :**
+Utilisez la solution la plus locale, la plus simple, la moins invasive.
+
+---
+
+# PARTIE B : Protéger ses données au quotidien
+
+---
+
+### 8.6 L'hygiène numérique de base
+
+| Geste | Impact | Difficulté |
+|-------|--------|------------|
+| Gestionnaire de mots de passe | Élevé | Facile |
+| Authentification à deux facteurs | Élevé | Facile |
+| Mettre à jour ses appareils | Élevé | Facile |
+| Emails différents (pro/perso/poubelle) | Moyen | Facile |
+| Vérifier les autorisations des apps | Moyen | Facile |
+| Désactiver la géolocalisation | Moyen | Facile |
+
+**L'erreur classique :**
+Un excellent mot de passe... utilisé partout. Un seul site piraté = tous vos comptes compromis.
+
+---
+
+### 8.7 Paramétrer ses outils IA
+
+**ChatGPT (OpenAI)**
+Settings → Data Controls :
+- ❌ Désactivez "Improve the model for everyone"
+- ✅ Activez "Temporary Chat" pour les conversations sensibles
+
+**Google (Gemini)**
+Mon compte Google → Données et confidentialité :
+- ❌ Désactivez "Activité sur le Web et les applications"
+- ❌ Désactivez "Personnalisation des annonces"
+
+**Microsoft (Copilot)**
+- Vérifiez les autorisations Copilot
+- Pour entreprise : demandez les paramètres à votre IT
+
+**Claude (Anthropic)**
+Settings :
+- Opt-out de l'entraînement si disponible
+
+---
+
+### 8.8 Les données que vous ne savez pas que vous donnez
+
+**Au-delà de ce que vous tapez :**
+
+- **Métadonnées** : Quand, combien de temps, sur quel appareil
+- **Habitudes** : Vos horaires, vos patterns
+- **Inférences** : Ce que l'IA déduit de vos questions
+- **Contexte** : Fichiers uploadés, images, documents
+
+**Exemple :**
+
+Vous demandez : "Comment annoncer un divorce à mes enfants ?"
+
+Vous venez de révéler :
+- Que vous divorcez
+- Que vous avez des enfants
+- Votre niveau de détresse (peut-être)
+
+---
+
+### 8.9 Le principe du "minimum nécessaire"
+
+| Besoin | ❌ Mauvaise pratique | ✅ Bonne pratique |
+|--------|---------------------|-------------------|
+| Résumer un article | Coller le texte intégral | Donner juste le lien |
+| Rédiger un email pro | Tout le contexte interne | Formuler générique |
+| Analyser des données | Uploader le fichier complet | Anonymiser d'abord |
+| Aide au code | Coller tout le projet | Isoler la fonction |
+
+**La règle d'or :**
+Avant de soumettre quelque chose à une IA, demandez-vous :
+*"Est-ce que j'accepterais que cette information soit publique ?"*
+
+---
+
+### 8.10 Les outils de protection
+
+**Navigateurs et extensions :**
+- **Brave** : Protection intégrée contre le tracking
+- **Firefox** + uBlock Origin : Bloque trackers
+- **DuckDuckGo** : Moteur de recherche sans tracking
+
+**Email :**
+- **Proton Mail** : Email chiffré, basé en Suisse
+- **SimpleLogin** : Alias email
+
+**VPN :**
+- **Mullvad** : Axé confidentialité, paiement anonyme
+- **ProtonVPN** : Du fournisseur de ProtonMail
+
+**Gestionnaire de mots de passe :**
+- **Bitwarden** : Open source, gratuit, audité
+- **1Password** : Payant mais excellent
+
+---
+
+### 8.11 Les alternatives locales
+
+**Faire tourner l'IA sur votre machine = vos données restent chez vous.**
+
+**Pour le texte :**
+- **Ollama** : LLM locaux
+- **LM Studio** : Interface graphique
+- **GPT4All** : Solution simple pour débutants
+
+**Pour les images :**
+- **Stable Diffusion** (local)
+- **AUTOMATIC1111** : Interface populaire
+
+**Prérequis :**
+- Ordinateur récent (GPU recommandé)
+- Un peu de configuration
+- Qualité légèrement inférieure aux modèles cloud
 
 ---
 
 ### Ce que vous pouvez faire
 
-1. **Avant de taper, demandez-vous : "Est-ce que j'accepterais que cette info soit publique ?"** Si non, ne la mettez pas dans l'IA.
+**Pour évaluer :**
 
-2. **Désactivez l'entraînement** dans les paramètres de ChatGPT.
+1. **Utilisez la grille** pour chaque nouvel outil
+2. **Testez avec des données fictives** avant vos vraies infos
+3. **Préférez les alternatives locales** quand possible
+4. **Lisez les conditions** (au moins en diagonal)
 
-3. **Pour les usages sensibles, utilisez des alternatives locales** ou des versions entreprise avec des garanties contractuelles.
+**Pour vous protéger :**
 
-4. **Formez vos proches.** Beaucoup de gens ne réalisent pas les implications.
-
-5. **Exercez vos droits RGPD.** Vous pouvez demander à OpenAI quelles données ils ont sur vous, et demander leur suppression.
+1. **Paramétrez vos outils** (10 minutes, une fois)
+2. **Appliquez le minimum nécessaire** (habitude à prendre)
+3. **Utilisez des outils de protection** (navigateur, email, VPN)
+4. **Explorez les alternatives locales** si vous êtes motivé
 
 ---
 
-*Chapitre suivant : Le regard européen — Vos droits*
+*Chapitre suivant : Quand utiliser — et quand ne pas utiliser — l'IA*

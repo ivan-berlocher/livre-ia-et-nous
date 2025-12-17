@@ -15,6 +15,142 @@ Tout au long de ce livre, nous avons vu les limites des IA actuelles : opacité,
 
 ---
 
+## Du fichier au concept : quand l'informatique devient invisible
+
+Pendant longtemps, l'informatique a été organisée autour de supports.
+
+On parlait de fichiers .doc, .xls, .ppt.
+On rangeait des dossiers.
+On sauvegardait sur des disques durs.
+On transportait des CD, puis des clés USB.
+
+Autrement dit : on gérait des **objets**.
+
+Puis quelque chose de fondamental a changé.
+
+### Quand le support disparaît, le concept reste
+
+Aujourd'hui, plus personne ne dit vraiment :
+
+> « Passe-moi le fichier .ppt »
+
+On dit :
+
+> « Envoie-moi la présentation »
+
+On ne dit plus :
+
+> « J'ai perdu mon .xls »
+
+mais :
+
+> « J'ai perdu mon tableau »
+
+Le format s'est effacé.
+Le concept a pris le dessus.
+
+Comme pour la musique :
+- le vinyle a disparu
+- le CD a disparu
+- le fichier local a disparu
+
+Mais la musique, elle, est partout.
+
+**Quand le support disparaît, ce qui compte vraiment apparaît.**
+
+### Un OS de concepts, pas de fichiers
+
+LifeOS — la vision qui anime Harmonia — part de cette idée simple :
+
+**Nous n'utilisons pas des fichiers.
+Nous vivons des concepts.**
+
+Un calendrier n'est pas une grille.
+C'est une relation au temps.
+
+Une présentation n'est pas un format.
+C'est une manière de transmettre une idée.
+
+Un tableau n'est pas un tableur.
+C'est une façon d'organiser le réel.
+
+LifeOS ne gère donc pas des .ppt, des .xls ou des .doc.
+Il gère :
+- des **Calendars**
+- des **Presentations**
+- des **Tables**
+- des **Notes**
+- des **Conversations**
+- des **Décisions**
+
+Les formats deviennent des détails techniques, interchangeables, secondaires.
+
+### Un concept, plusieurs expériences
+
+Un point essentiel est souvent mal compris.
+
+**Un concept est unique,
+mais son expérience est multiple.**
+
+Il n'y a qu'un concept de *love*,
+mais il se vit différemment selon les cultures :
+- *love*
+- *amour*
+- *사랑*
+
+Et même au sein d'une même culture,
+chaque individu vit ce concept à sa manière.
+
+En informatique, on dirait :
+- le concept est une **classe**
+- l'expérience vécue est une **instance**
+
+LifeOS applique cette idée au quotidien numérique :
+- un seul concept de **Calendar**
+- autant de calendriers vécus que de personnes
+
+### Libérer l'espace
+
+Quand les bibliothèques de CD ont disparu,
+les salons ont changé.
+
+L'espace libéré a permis :
+- d'ajouter autre chose
+- de réorganiser
+- ou simplement de laisser du vide
+
+LifeOS poursuit le même mouvement.
+
+En retirant :
+- la complexité visuelle inutile
+- l'obsession des formats
+- la tyrannie des interfaces
+
+il rend possible :
+- un espace de pensée
+- un espace de décision
+- parfois même… un espace vide
+
+Car le vide n'est pas un manque.
+C'est une possibilité.
+
+### Une informatique qui s'efface
+
+LifeOS n'est pas un OS de plus.
+Ce n'est pas une application.
+Ce n'est pas une interface de plus à apprendre.
+
+C'est une couche au-dessus des outils,
+qui permet de se concentrer sur ce qui compte réellement :
+le temps, les idées, les relations, les décisions.
+
+**Quand l'informatique disparaît du champ visuel,
+l'humain redevient central.**
+
+C'est cette philosophie qui guide l'architecture Harmonia que nous allons maintenant explorer.
+
+---
+
 ## Le problème que Harmonia cherche à résoudre
 
 ### Le modèle actuel

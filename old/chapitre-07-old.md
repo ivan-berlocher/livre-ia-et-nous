@@ -1,5 +1,5 @@
-# Chapitre 4
-## L'économie de l'IA : suivez l'argent
+# Chapitre 7
+## Le modèle économique (suivez l'argent)
 
 ---
 

@@ -1,5 +1,5 @@
-# Chapitre 10
-## L'IA dans 5 ans — prédictions honnêtes
+# Chapitre 18
+## L'IA dans 5 ans (prédictions honnêtes)
 
 ---
 

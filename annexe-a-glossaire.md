@@ -1,248 +1,324 @@
 # Annexe A
-## Glossaire du cyber citoyen
+## Glossaire — Le lexique de l'IA démystifié
 
 ---
 
-*50 termes essentiels pour comprendre l'IA, expliqués simplement.*
+L'IA a son jargon.
+
+Cette annexe est votre dictionnaire de survie.
+
+Gardez-la à portée de main.
 
 ---
 
 ### A
 
 **AGI (Artificial General Intelligence)**
-Intelligence artificielle "générale" — une IA hypothétique qui serait capable de faire tout ce qu'un humain peut faire intellectuellement. N'existe pas encore. Certains pensent qu'elle arrivera dans 5 ans, d'autres dans 50, d'autres jamais.
+Intelligence artificielle générale. Une IA hypothétique qui serait capable de faire tout ce qu'un humain peut faire intellectuellement. N'existe pas encore. Peut-être n'existera jamais.
 
-**AI Act**
-Règlement européen sur l'intelligence artificielle, adopté en 2024. Première législation complète au monde sur l'IA. Classe les systèmes IA par niveau de risque et impose des obligations croissantes.
+**Agent**
+Entité logicielle autonome, définie par un rôle et un domaine, capable de percevoir, raisonner et agir dans les limites de règles explicites. Contrairement à un simple chatbot qui répond à des questions, un agent peut planifier des séquences d'actions, utiliser des outils, et poursuivre un objectif. **Attention :** un vrai agent (au sens rigoureux) est *responsable* de ce qu'il produit, doit pouvoir expliquer ses décisions, et laisse des traces vérifiables. Sans ces propriétés, ce n'est pas un agent — c'est une fonction avec du marketing. Les "agents autonomes" actuels (2024-2025) sont souvent des démos impressionnantes mais sans garanties de fiabilité.
 
-**Alignment (alignement)**
-Le défi de faire en sorte qu'une IA agisse conformément aux intentions humaines. Plus facile à dire qu'à faire : comment s'assurer qu'une IA comprend vraiment ce qu'on veut, et pas juste ce qu'on a dit ?
+**Algorithme**
+Une suite d'instructions pour résoudre un problème. Comme une recette de cuisine, mais pour un ordinateur.
+
+**Alignement**
+Le problème de s'assurer qu'une IA fait ce qu'on veut vraiment qu'elle fasse, pas juste ce qu'on lui a dit de faire. Un des grands défis de la sécurité de l'IA.
 
 **API (Application Programming Interface)**
-Interface qui permet à des programmes de communiquer entre eux. Quand une entreprise utilise ChatGPT dans son application, elle passe par l'API d'OpenAI.
+Interface qui permet à un programme d'utiliser un autre programme. Vous n'utilisez pas directement le modèle GPT-4 ; vous passez par l'API d'OpenAI.
 
 **Attention (mécanisme d')**
-Technique au cœur des transformers. Permet au modèle de "faire attention" à différentes parties du texte selon leur pertinence pour la tâche en cours.
+Technique qui permet à un modèle de "se concentrer" sur les parties pertinentes d'un texte. C'est ce qui permet aux Transformers de comprendre les relations à longue distance dans un texte.
 
 ---
 
 ### B
 
 **Biais**
-Distorsion systématique dans les résultats d'une IA, souvent héritée des données d'entraînement. Si les données contiennent des stéréotypes, l'IA les reproduira (et parfois les amplifiera).
+Quand un système IA donne des résultats systématiquement incorrects ou injustes pour certains groupes. Exemple : un système de recrutement qui défavorise les femmes parce qu'il a été entraîné sur des données historiques biaisées.
 
-**Black box (boîte noire)**
-Système dont on voit les entrées et les sorties, mais pas le fonctionnement interne. Les grands LLM sont des boîtes noires : personne ne sait exactement pourquoi ils donnent une réponse plutôt qu'une autre.
+**Big Tech**
+Les géants de la technologie : Google, Meta, Microsoft, Amazon, Apple. Parfois étendu à des acteurs chinois comme Baidu ou ByteDance.
+
+**Blackbox (boîte noire)**
+Quand on ne peut pas comprendre comment un système prend ses décisions. On voit les entrées et les sorties, mais pas ce qui se passe à l'intérieur.
 
 ---
 
 ### C
 
 **Chatbot**
-Programme conçu pour converser avec des humains par écrit ou par oral. ChatGPT est le chatbot le plus célèbre, mais il en existe des milliers.
+Programme qui peut avoir une conversation textuelle. ChatGPT est un chatbot très avancé.
 
 **Claude**
-LLM développé par Anthropic. Connu pour son approche "constitutionnelle" de la sécurité et son ton plus nuancé.
+Modèle de langage développé par Anthropic, concurrent de GPT. Conçu avec un accent sur la sécurité et l'alignement.
 
-**Completion (complétion)**
-Action de "compléter" un texte. C'est ce que font les LLM : vous donnez un début, ils prédisent la suite.
+**Cloud**
+Serveurs distants accessibles par Internet. Quand vous utilisez ChatGPT, vous utilisez des serveurs dans le cloud (chez Microsoft Azure).
 
-**Compute (calcul)**
-Puissance de calcul nécessaire pour entraîner ou faire fonctionner un modèle. Entraîner GPT-4 a nécessité des milliers de GPU pendant des mois. Coût estimé : 100+ millions de dollars.
+**Cloud Act**
+Loi américaine de 2018 qui permet au gouvernement US d'accéder aux données stockées par des entreprises américaines, même si les serveurs sont à l'étranger.
 
 **Context window (fenêtre de contexte)**
-Quantité de texte qu'un LLM peut "voir" en même temps. GPT-4 peut traiter environ 128 000 tokens (~100 000 mots). Au-delà, il "oublie".
+La quantité de texte qu'un modèle peut "garder en mémoire" pour une conversation. GPT-4 : ~128K tokens. Claude : ~200K tokens. Plus c'est grand, plus le modèle peut travailler avec de longs documents.
 
 **Copilot**
-Nom donné par Microsoft à ses assistants IA intégrés dans Windows, Office, GitHub, etc. Utilise les modèles d'OpenAI.
+Nom de l'assistant IA de Microsoft, basé sur GPT d'OpenAI. Intégré dans Windows, Office, Bing, etc.
+
+**Copyright**
+Droit d'auteur. Question non résolue : qui possède les œuvres générées par IA ?
 
 ---
 
 ### D
 
 **Data (données)**
-Matière première de l'IA. Un LLM est entraîné sur des téraoctets de texte : livres, sites web, articles, conversations... La qualité des données détermine la qualité du modèle.
+L'information utilisée pour entraîner les modèles IA. La qualité des données détermine largement la qualité du modèle.
 
-**Deep Learning (apprentissage profond)**
-Sous-domaine du machine learning utilisant des réseaux de neurones à nombreuses couches. C'est la technique derrière les LLM actuels.
+**Deep learning (apprentissage profond)**
+Technique d'apprentissage automatique utilisant des réseaux de neurones à plusieurs couches. C'est ce qui a permis les percées récentes en IA.
 
 **Deepfake**
-Contenu synthétique (image, audio, vidéo) généré par IA pour imiter une personne réelle. Peut servir à créer de faux discours politiques, de fausses vidéos compromettantes, etc.
+Contenu audio ou vidéo généré par IA qui fait dire ou faire à quelqu'un quelque chose qu'il n'a jamais dit ou fait.
 
 **Diffusion (modèle de)**
-Technique utilisée pour générer des images (DALL-E, Midjourney, Stable Diffusion). Part de bruit aléatoire et le "nettoie" progressivement pour créer une image cohérente.
+Architecture utilisée pour la génération d'images (Stable Diffusion, DALL-E 3, Midjourney). Fonctionne en apprenant à "débruiter" une image.
+
+**DPO (Délégué à la Protection des Données)**
+Personne responsable de la conformité RGPD dans une organisation. Votre contact pour les questions de données personnelles.
 
 ---
 
 ### E
 
 **Embedding**
-Représentation mathématique d'un mot, d'une phrase ou d'un concept sous forme de vecteur numérique. Permet à l'IA de calculer des "distances" entre concepts.
+Représentation numérique d'un mot, d'une phrase ou d'un document sous forme de vecteur. Permet aux machines de "comprendre" la proximité sémantique.
 
-**Emergence (émergence)**
-Capacités qui apparaissent dans les grands modèles sans avoir été explicitement programmées. Par exemple, la capacité de faire des mathématiques de base ou de raisonner par analogie.
+**Emergent behavior (comportement émergent)**
+Capacités qui apparaissent dans les grands modèles sans avoir été explicitement programmées. Par exemple, les LLM qui "apprennent" à raisonner.
+
+**Éthique de l'IA**
+Domaine qui étudie les implications morales de l'IA : biais, vie privée, emploi, autonomie, etc.
 
 ---
 
 ### F
 
+**Few-shot learning**
+Capacité d'un modèle à apprendre une nouvelle tâche avec seulement quelques exemples. "Voici 3 exemples de ce que je veux, maintenant fais-le."
+
 **Fine-tuning**
-Entraînement supplémentaire d'un modèle pré-entraîné sur des données spécifiques. Permet d'adapter un modèle général à une tâche particulière (médecine, droit, code...).
+Processus d'adaptation d'un modèle pré-entraîné à une tâche spécifique en le réentraînant sur des données supplémentaires.
 
 **Foundation model (modèle de fondation)**
-Modèle pré-entraîné sur d'énormes quantités de données, qui sert de base à de nombreuses applications. GPT-4, Claude, Llama sont des modèles de fondation.
+Grand modèle pré-entraîné qui sert de base pour diverses applications. GPT-4, Claude, Llama sont des modèles de fondation.
 
 ---
 
 ### G
 
 **Gemini**
-Famille de modèles IA de Google (anciennement Bard). Principal concurrent de GPT-4.
+Modèle de langage de Google, successeur de Bard.
 
 **Generative AI (IA générative)**
-IA capable de créer du contenu nouveau : texte, images, musique, code, vidéo. Par opposition à l'IA "analytique" qui classe ou prédit.
+IA capable de créer du nouveau contenu : texte, images, musique, vidéo. ChatGPT, DALL-E, Midjourney sont des IA génératives.
 
 **GPT (Generative Pre-trained Transformer)**
-Architecture et famille de modèles d'OpenAI. GPT-3.5 alimentait ChatGPT à son lancement. GPT-4 est la version actuelle la plus puissante.
+Architecture de modèle d'OpenAI. GPT-3, GPT-4, GPT-4o sont des versions successives.
 
 **GPU (Graphics Processing Unit)**
-Processeur graphique, initialement conçu pour les jeux vidéo, reconverti pour l'entraînement des IA. NVIDIA domine ce marché.
+Processeur graphique. Ironiquement, ces puces conçues pour les jeux vidéo sont idéales pour l'IA. NVIDIA domine ce marché.
 
-**Guardrails (garde-fous)**
-Mécanismes intégrés à une IA pour l'empêcher de produire du contenu dangereux, illégal ou nuisible. Peuvent être contournés par des techniques de "jailbreak".
+**Ground truth (vérité de référence)**
+Les données correctes utilisées pour entraîner ou évaluer un modèle. Si la ground truth est biaisée, le modèle sera biaisé.
+
+**Guardrails**
+Protections mises en place pour empêcher un modèle de produire des contenus dangereux ou inappropriés.
 
 ---
 
 ### H
 
 **Hallucination**
-Génération par l'IA d'informations fausses présentées avec assurance comme vraies. Exemple : citer un article académique qui n'existe pas. Problème fondamental des LLM actuels.
+Quand un modèle génère des informations fausses présentées comme vraies. ChatGPT qui invente des citations ou des faits qui n'existent pas.
 
-**Human-in-the-loop**
-Approche où un humain supervise et valide les décisions de l'IA. L'opposé de l'automatisation complète.
+**Hugging Face**
+Plateforme majeure pour les modèles IA open source. Le "GitHub de l'IA".
 
 ---
 
 ### I
 
 **Inference (inférence)**
-Phase d'utilisation d'un modèle déjà entraîné. Quand vous posez une question à ChatGPT, le modèle fait de l'inférence (il applique ce qu'il a appris).
+Le processus de faire fonctionner un modèle entraîné pour obtenir des prédictions. Quand vous posez une question à ChatGPT, le modèle fait de l'inférence.
+
+**Intelligence artificielle (IA)**
+Systèmes informatiques capables de réaliser des tâches qui nécessitent normalement l'intelligence humaine.
 
 ---
 
 ### J
 
 **Jailbreak**
-Technique pour contourner les garde-fous d'une IA et lui faire produire du contenu normalement interdit. Course permanente entre attaquants et développeurs.
+Technique pour contourner les protections d'un modèle IA et lui faire produire des contenus normalement interdits.
 
 ---
 
 ### L
 
-**Llama**
-Famille de modèles open source de Meta. Permet à des chercheurs et entreprises d'utiliser et modifier des LLM puissants sans passer par OpenAI ou Google.
+**Latent space (espace latent)**
+L'espace mathématique interne où un modèle représente les concepts. Difficile à visualiser, mais crucial pour comprendre comment les modèles "pensent".
 
 **LLM (Large Language Model)**
-Grand modèle de langage. Programme entraîné sur d'énormes quantités de texte pour prédire le mot suivant. GPT-4, Claude, Gemini, Llama sont des LLM.
+Grand modèle de langage. Les modèles comme GPT-4, Claude, Llama qui ont été entraînés sur d'énormes quantités de texte.
+
+**Llama**
+Famille de modèles de langage open source de Meta (Facebook). Alternative ouverte aux modèles propriétaires.
 
 ---
 
 ### M
 
-**Machine Learning (apprentissage automatique)**
-Branche de l'informatique où les programmes "apprennent" à partir de données plutôt que d'être explicitement programmés. Les LLM sont une forme de machine learning.
+**Machine learning (apprentissage automatique)**
+Technique où un programme apprend à partir de données plutôt que d'être explicitement programmé.
+
+**Midjourney**
+Service populaire de génération d'images par IA. Accessible via Discord.
 
 **Mistral**
-Startup française fondée en 2023 par d'anciens chercheurs de Google et Meta. Développe des LLM compétitifs. Principal champion européen de l'IA générative.
+Startup française d'IA, créatrice de modèles de langage open source. Espoir européen face aux géants américains.
+
+**Modèle**
+Programme entraîné sur des données pour effectuer une tâche. GPT-4 est un modèle.
 
 **Multimodal**
-IA capable de traiter plusieurs types de médias : texte, image, audio, vidéo. GPT-4o et Gemini sont multimodaux.
+IA capable de traiter plusieurs types de données : texte, images, audio, vidéo. GPT-4V est multimodal (comprend les images).
 
 ---
 
 ### N
 
 **Neural network (réseau de neurones)**
-Architecture informatique inspirée (très vaguement) du cerveau humain. Composée de couches de "neurones" artificiels connectés entre eux.
+Architecture informatique inspirée du cerveau humain. Des "neurones" artificiels connectés en couches.
+
+**NLP (Natural Language Processing)**
+Traitement automatique du langage naturel. Le domaine qui permet aux machines de comprendre et générer du langage humain.
 
 ---
 
 ### O
 
 **Open source**
-Logiciel dont le code est public et peut être modifié par n'importe qui. Llama de Meta est open source. GPT-4 d'OpenAI ne l'est pas (malgré le nom de l'entreprise).
+Logiciel dont le code source est accessible et modifiable par tous. Llama est open source (avec restrictions), GPT-4 ne l'est pas.
 
 **OpenAI**
-Entreprise américaine créatrice de ChatGPT et GPT-4. Fondée comme organisation à but non lucratif en 2015, devenue majoritairement commerciale depuis. Partenariat stratégique avec Microsoft.
+Entreprise créatrice de ChatGPT, GPT-4, DALL-E. Fondée comme ONG, devenue entreprise à but lucratif plafonné.
 
 **Overfitting (surapprentissage)**
-Quand un modèle mémorise ses données d'entraînement au lieu d'apprendre des patterns généraux. Résultat : excellent sur les données connues, médiocre sur les nouvelles.
+Quand un modèle est trop bien adapté à ses données d'entraînement et généralise mal à de nouvelles données.
 
 ---
 
 ### P
 
 **Parameter (paramètre)**
-Valeur numérique ajustée pendant l'entraînement. GPT-4 aurait ~1 700 milliards de paramètres. Plus de paramètres = modèle plus puissant (généralement).
+Les "réglages" internes d'un modèle. GPT-4 a ~1 trillion de paramètres. Plus il y en a, plus le modèle est potentiellement capable (et coûteux).
 
 **Pre-training (pré-entraînement)**
-Phase initiale où le modèle apprend à partir d'un corpus massif de texte. Le modèle apprend les patterns du langage sans supervision spécifique.
+Phase initiale d'entraînement d'un modèle sur de grandes quantités de données générales, avant le fine-tuning.
 
 **Prompt**
-Texte que vous donnez à l'IA pour obtenir une réponse. L'art de formuler de bons prompts s'appelle le "prompt engineering".
+L'instruction ou la question que vous donnez à un modèle IA. L'art du prompt est de formuler des instructions qui donnent de bons résultats.
+
+**Prompt engineering**
+L'art de formuler des prompts efficaces. Une compétence de plus en plus valorisée.
 
 ---
 
 ### R
 
 **RAG (Retrieval-Augmented Generation)**
-Technique combinant un LLM avec une base de connaissances externe. Le modèle "récupère" des informations pertinentes avant de générer sa réponse. Réduit les hallucinations.
+Technique qui combine un LLM avec une base de données externe. Permet de répondre à des questions sur des documents spécifiques.
 
-**RGPD (Règlement Général sur la Protection des Données)**
-Règlement européen de 2018 sur la vie privée. Donne aux citoyens des droits sur leurs données : accès, rectification, effacement, portabilité.
+**Reasoning (raisonnement)**
+Capacité d'un modèle à suivre une logique, étape par étape. Les modèles récents (GPT-4, Claude) montrent des capacités de raisonnement émergentes.
+
+**Red teaming**
+Pratique de tester un système en essayant de le faire échouer ou de contourner ses protections. Utilisé pour améliorer la sécurité des modèles.
+
+**Reinforcement Learning (apprentissage par renforcement)**
+Technique où un modèle apprend par essai-erreur, en recevant des récompenses ou des punitions. Utilisé pour affiner les comportements des chatbots.
 
 **RLHF (Reinforcement Learning from Human Feedback)**
-Technique d'entraînement où des humains évaluent les réponses de l'IA pour l'améliorer. Rend les réponses plus utiles et moins problématiques.
+Technique où des humains évaluent les réponses d'un modèle pour l'améliorer. C'est ce qui rend ChatGPT "poli" et utile.
+
+**RGPD (Règlement Général sur la Protection des Données)**
+Loi européenne sur la protection des données personnelles. Vos droits fondamentaux face aux données.
 
 ---
 
 ### S
 
-**Scaling laws (lois d'échelle)**
-Observation empirique : plus un modèle est grand et entraîné sur plus de données, meilleures sont ses performances. Pousse à la course aux modèles toujours plus gros.
+**Scaling laws (lois de mise à l'échelle)**
+Observation que les performances des modèles s'améliorent de façon prévisible quand on augmente leur taille et leurs données d'entraînement.
 
-**Stochastic parrot (perroquet stochastique)**
-Expression critique pour décrire les LLM : ils répètent des patterns statistiques sans vraiment "comprendre". Inventée par les chercheuses Timnit Gebru et Emily Bender.
+**Stable Diffusion**
+Modèle open source de génération d'images. Peut être exécuté localement, contrairement à DALL-E ou Midjourney.
 
-**Synthetic data (données synthétiques)**
-Données générées par IA pour entraîner d'autres IA. Solution possible à la pénurie de données naturelles, mais pose des questions sur la qualité.
+**System prompt**
+Instructions cachées données au modèle avant votre conversation. Définit le comportement, la personnalité, les limites.
 
 ---
 
 ### T
 
 **Temperature**
-Paramètre contrôlant le caractère aléatoire des réponses. Temperature basse = réponses prévisibles. Temperature haute = réponses créatives (mais potentiellement incohérentes).
+Paramètre qui contrôle la "créativité" d'un modèle. Température basse = réponses prévisibles. Température haute = réponses plus variées (mais parfois incohérentes).
 
 **Token**
-Unité de base traitée par un LLM. Généralement un mot ou un morceau de mot. "ChatGPT" = 1-2 tokens. Les modèles facturent souvent à l'usage en tokens.
+Unité de base du texte pour un LLM. Environ 0,75 mot en anglais, variable en français. Les modèles comptent en tokens, pas en mots.
 
 **Training (entraînement)**
-Phase où le modèle apprend à partir des données. Coûte des millions de dollars pour les grands modèles. Résultat : les "poids" du réseau de neurones.
+Processus par lequel un modèle apprend à partir de données. Peut prendre des mois et coûter des millions de dollars pour les grands modèles.
 
 **Transformer**
-Architecture de réseau de neurones inventée par Google en 2017. Révolution qui a rendu les LLM possibles. Utilise le mécanisme d'attention.
+Architecture de réseau de neurones qui a révolutionné le NLP. Le "T" de GPT. Utilise le mécanisme d'attention.
 
-**Turing test (test de Turing)**
-Proposé par Alan Turing en 1950 : si une machine peut converser sans qu'on puisse la distinguer d'un humain, peut-on dire qu'elle "pense" ? Beaucoup considèrent que GPT-4 passe ce test.
+---
+
+### V
+
+**Vector database (base de données vectorielle)**
+Base de données optimisée pour stocker et rechercher des embeddings. Essentielle pour les systèmes RAG.
+
+---
+
+### W
+
+**Weights (poids)**
+Les valeurs numériques qui définissent un modèle entraîné. "Télécharger les weights" = télécharger le modèle.
+
+**Whisper**
+Modèle de transcription audio d'OpenAI. Peut transcrire et traduire de l'audio en texte.
 
 ---
 
 ### Z
 
 **Zero-shot**
-Capacité d'un modèle à accomplir une tâche sans exemples spécifiques. "Traduis cette phrase en japonais" → le modèle le fait sans avoir reçu d'exemples de traduction dans le prompt.
+Capacité d'un modèle à effectuer une tâche sans aucun exemple préalable. "Fais ceci" sans montrer comment.
 
 ---
 
-*Ce glossaire évolue avec la technologie. Version de décembre 2025.*
+### Ce que vous pouvez faire
+
+1. **Gardez ce lexique accessible.** Consultez-le quand vous rencontrez un terme inconnu.
+
+2. **N'ayez pas peur du jargon.** Derrière chaque terme compliqué, il y a un concept souvent simple.
+
+3. **Utilisez ces termes.** Plus vous les utilisez, plus ils deviennent naturels.
+
+---
+
+*Chapitre suivant : Conclusion — Le citoyen augmenté*

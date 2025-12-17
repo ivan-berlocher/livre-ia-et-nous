@@ -214,7 +214,50 @@ Voici les ressources pour aller plus loin — classées par niveau et par type.
 
 ---
 
-### 22.10 Créer sa propre opinion
+### 22.10 Pour les enseignants — Intégrer l'IA en classe
+
+**Ressources institutionnelles :**
+
+| Ressource | Contenu | Site |
+|-----------|---------|------|
+| **Éduscol** | Fiches pédagogiques, cadre officiel | eduscol.education.fr |
+| **CNIL Kit pédagogique** | Ateliers clés en main, vidéos, quiz | cnil.fr/education |
+| **Class'Code IAI** | Formation enseignants, ressources élèves | classcode.fr |
+
+**Activités clés en main :**
+
+1. **Dessine-moi une IA** (Primaire-collège, 1h) : Faire dessiner ce qu'est l'IA, discuter des représentations
+2. **Le jeu du Turing** (Collège-lycée, 30 min) : Un élève répond comme une IA, les autres devinent
+3. **Biais dans les images** (Lycée, 2h) : Générer des images, analyser les stéréotypes
+4. **Fact-checking avec ChatGPT** (Lycée, 1-2h) : Poser des questions factuelles, vérifier les réponses
+
+**Formations enseignants :** Canopé (gratuit), M@gistère, FUN MOOC
+
+---
+
+### 22.11 Pour les parents — Accompagner ses enfants
+
+**Guides pratiques :**
+- **CNIL — Les 10 conseils pour accompagner votre enfant** : cnil.fr/famille
+- **Internet Sans Crainte** : internetsanscrainte.fr
+- **e-Enfance** : e-enfance.org (ligne d'écoute : 0800 200 000)
+
+**Livres pour enfants sur l'IA :**
+- *Ada & Zangemann* (dès 6 ans) : Logiciel libre, propriété du code
+- *Hello Ruby* (6-10 ans) : Initiation à la programmation
+- *Les décodeuses du numérique* (collège) : Femmes dans la tech, BD
+
+**Questions pour ouvrir le dialogue :**
+1. "Est-ce que tu utilises ChatGPT pour tes devoirs ?"
+2. "Tu sais comment ça marche ?"
+3. "Comment tu sais si ce qu'il dit est vrai ?"
+4. "Qu'est-ce qui te plaît / t'inquiète ?"
+
+**Posture recommandée :** Curieux plutôt que flicage. Apprendre ensemble plutôt qu'interdire. Fixer des règles claires mais expliquées. Montrer l'exemple.
+
+---
+
+### 22.12 Créer sa propre opinion
 
 **Attention aux biais :**
 
@@ -235,6 +278,23 @@ Voici les ressources pour aller plus loin — classées par niveau et par type.
 
 ---
 
+### 22.13 À éviter — Sources non fiables
+
+**Red flags :**
+- Promesses de "devenir expert en 24h"
+- Formations à prix exorbitant sans reconnaissance
+- Influenceurs sans expertise vérifiable
+- Articles sponsorisés déguisés en conseils
+- Prédictions sensationnalistes (fin du monde ou utopie)
+
+**Questions à se poser :**
+- Qui est l'auteur ? Quelles sont ses qualifications ?
+- Qui finance ce contenu ?
+- Y a-t-il des sources vérifiables ?
+- Le ton est-il équilibré ou vendeur ?
+
+---
+
 ### Ce que vous pouvez faire
 
 1. **Choisissez UNE ressource de chaque niveau.** Commencez petit.
@@ -246,6 +306,33 @@ Voici les ressources pour aller plus loin — classées par niveau et par type.
 4. **Discutez avec d'autres.** Les conversations enrichissent la compréhension.
 
 5. **Restez humble.** Personne ne comprend tout. L'IA évolue trop vite.
+
+---
+
+### 22.14 Bibliographie essentielle
+
+**Livres accessibles :**
+- *AI Superpowers* — Kai-Fu Lee (2018) : La course USA/Chine
+- *L'intelligence artificielle n'existe pas* — Luc Julia (2019) : Démystification
+- *Atlas of AI* — Kate Crawford (2021) : Les coûts cachés
+- *Weapons of Math Destruction* — Cathy O'Neil (2016) : Algorithmes et inégalités
+- *Human Compatible* — Stuart Russell (2019) : IA et contrôle humain
+
+**Articles académiques fondateurs :**
+- *"Attention Is All You Need"* — Vaswani et al. (2017) : L'invention des Transformers
+- *"Language Models are Few-Shot Learners"* — GPT-3, OpenAI (2020)
+- *"Constitutional AI"* — Anthropic (2022) : Approche sécurité de Claude
+
+**Rapports institutionnels :**
+- *AI Act* — Règlement UE 2024/1689
+- *Ethics Guidelines for Trustworthy AI* — Commission européenne (2019)
+- *Rapport Villani* — Stratégie nationale IA (2018)
+
+**Ressources en ligne :**
+- fast.ai : Cours pratiques gratuits
+- Hugging Face : Modèles et documentation open source
+- arXiv : Prépublications scientifiques
+- Papers With Code : Papiers + implémentations
 
 ---
 
