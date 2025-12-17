@@ -31,6 +31,8 @@ C'est extraordinairement simple comme principe.
 C'est extraordinairement puissant comme résultat.
 Et c'est extraordinairement trompeur comme expérience.
 
+> *Ce livre ne décrit pas le langage comme le ferait un linguiste, mais comme un citoyen doit le comprendre pour ne pas confondre maîtrise du texte et compréhension du monde.*
+
 **Pourquoi "générative" ?**
 
 On parle d'**IA générative** pour une raison précise : elle *génère* du contenu nouveau.

@@ -18,6 +18,10 @@ Que faire de tout cela ?
 
 ### 15.1 Ce que vous avez appris
 
+> 🧠 **Avertissement honnête :**
+>
+> Même après cette lecture, certaines illusions persisteront. Quand l'IA répond avec fluidité, votre cerveau attribuera *quand même* une compréhension. Quand elle reformule avec pertinence, vous penserez *quand même* qu'elle "sait". C'est normal : le langage est un piège cognitif. L'important n'est pas d'éliminer ces intuitions — c'est de savoir qu'elles sont fausses.
+
 **Partie I — Comprendre la bête**
 
 L'IA n'est pas magique. Ce sont des statistiques très sophistiquées appliquées à d'énormes quantités de données. Les LLM prédisent le prochain mot. Ils ne "comprennent" pas vraiment. Ils sont impressionnants ET fondamentalement limités.
