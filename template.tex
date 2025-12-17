@@ -1,0 +1,76 @@
+\documentclass[11pt,a4paper]{report}
+
+% Géométrie
+\usepackage[margin=2.5cm]{geometry}
+
+% Langue française
+\usepackage{polyglossia}
+\setdefaultlanguage{french}
+
+% Polices avec support emoji
+\usepackage{fontspec}
+\setmainfont{DejaVu Sans}
+\setmonofont{DejaVu Sans Mono}
+
+% Support des emojis via fallback
+\usepackage{newunicodechar}
+
+% Définir les emojis manquants avec des équivalents texte stylisés
+\newunicodechar{✅}{\textbf{[OK]}}
+\newunicodechar{❌}{\textbf{[X]}}
+\newunicodechar{⚠}{\textbf{[!]}}
+\newunicodechar{⭐}{\textbf{*}}
+\newunicodechar{📖}{\textbf{[Livre]}}
+\newunicodechar{📚}{\textbf{[Livres]}}
+\newunicodechar{📋}{\textbf{[Liste]}}
+\newunicodechar{📊}{\textbf{[Stats]}}
+\newunicodechar{🎯}{\textbf{[Cible]}}
+\newunicodechar{🧠}{\textbf{[Cerveau]}}
+\newunicodechar{🧭}{\textbf{[Boussole]}}
+\newunicodechar{👉}{\textbf{->}}
+\newunicodechar{👨}{\textbf{[H]}}
+\newunicodechar{👩}{\textbf{[F]}}
+\newunicodechar{👧}{\textbf{[E]}}
+\newunicodechar{🎓}{\textbf{[Diplome]}}
+\newunicodechar{🏫}{\textbf{[Ecole]}}
+\newunicodechar{💼}{\textbf{[Pro]}}
+\newunicodechar{🔬}{\textbf{[Labo]}}
+\newunicodechar{📅}{\textbf{[Cal]}}
+\newunicodechar{🔗}{\textbf{[Lien]}}
+\newunicodechar{🚦}{\textbf{[Feu]}}
+\newunicodechar{🟢}{\textbf{[VERT]}}
+\newunicodechar{🟡}{\textbf{[JAUNE]}}
+\newunicodechar{🟠}{\textbf{[ORANGE]}}
+\newunicodechar{🔴}{\textbf{[ROUGE]}}
+\newunicodechar{❓}{\textbf{[?]}}
+\newunicodechar{⏱}{\textbf{[Chrono]}}
+\newunicodechar{↔}{\textbf{<->}}
+\newunicodechar{☐}{\textbf{[ ]}}
+\newunicodechar{✓}{\textbf{[v]}}
+
+% Symboles Unicode courants
+\newunicodechar{→}{\ensuremath{\rightarrow}}
+
+% Liens
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue
+}
+
+% Table des matières
+\setcounter{tocdepth}{2}
+
+% Tables longues
+\usepackage{longtable}
+\usepackage{booktabs}
+
+% Métadonnées
+\title{L'IA et Nous — Le guide du cyber citoyen}
+\author{Ivan Berlocher}
+\date{Décembre 2025}
+
+\begin{document}
+$body$
+\end{document}
