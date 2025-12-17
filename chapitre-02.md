@@ -355,4 +355,8 @@ Elle n'a pas de confiance calibrée dans ses propres sorties.
 
 ---
 
+> *Si une IA vous semble comprendre, c'est que le langage vous trompe : elle maîtrise les formes du discours, pas le monde auquel ces formes renvoient.*
+
+---
+
 *Chapitre suivant : Les acteurs — Qui contrôle l'IA ?*
