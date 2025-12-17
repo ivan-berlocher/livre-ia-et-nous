@@ -177,7 +177,7 @@ C'est comme la différence entre répondre du tac au tac et prendre le temps de 
 
 Nouveau buzzword, nouvelle promesse : les "Agents" *(définition complète au chapitre 10)*.
 
-Un LLM seul répond à des questions. Un **Agent** peut *agir* : naviguer sur le web, envoyer des emails, réserver des billets, modifier des fichiers, exécuter du code.
+Un LLM seul répond à des questions. Un **Agent logiciel** peut *agir* : naviguer sur le web, envoyer des emails, réserver des billets, modifier des fichiers, exécuter du code.
 
 L'idée : au lieu de vous donner une réponse, l'IA accomplit la tâche pour vous.
 

@@ -2,6 +2,8 @@
 
 **Comprendre vraiment l'intelligence artificielle pour rester maître de vos choix**
 
+> *Ce livre peut se lire linéairement ou par chapitres indépendants.*
+
 ---
 
 ## Table des matières

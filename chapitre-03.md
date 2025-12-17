@@ -9,7 +9,8 @@ Cette question paraît simple. La réponse ne l'est pas.
 
 Derrière ChatGPT, Gemini, Claude et les autres se cache un enchevêtrement d'entreprises, d'investisseurs, de partenariats et de dépendances. Comprendre cette carte, c'est comprendre qui décide de ce que l'IA peut faire — et de ce qu'elle fait de vos données.
 
-> **⚠️ Note sur la temporalité :** Les acteurs cités ici sont ceux de 2024–2025. Les rapports de force évolueront — des géants peuvent chuter, de nouveaux entrants émerger. Ce qui ne changera pas : les questions à poser sur la propriété, le contrôle et la transparence.
+> ⚠️ **Note de temporalité :**
+> Les acteurs cités ici sont ceux de 2024–2025. Les rapports de force évolueront — des géants peuvent chuter, de nouveaux entrants émerger. Ce qui ne changera pas : les questions à poser sur la propriété, le contrôle et la transparence.
 
 ---
 

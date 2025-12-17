@@ -381,9 +381,11 @@ Et ce choix dépend de ce que nous exigerons collectivement.
 
 ---
 
-> 📖 **Pause possible**
+> 📖 **Pause possible :**
 >
 > Vous avez l'essentiel : ce qui est certain, ce que sont les agents, les enjeux d'ouverture et de gouvernabilité. Vous pouvez passer au chapitre suivant si vous le souhaitez. La suite approfondit les scénarios — probable, incertain, fantasmé.
+>
+> *Revenir plus tard est aussi une forme d'intelligence.*
 
 ---
 
