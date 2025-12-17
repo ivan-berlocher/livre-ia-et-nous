@@ -13,10 +13,9 @@ cd "$(dirname "$0")"
 # Fichier de sortie
 OUTPUT="L-IA-et-Nous_v1.0.pdf"
 
-# Ordre des fichiers
+# Ordre des fichiers (sans avant-propos, il sera inséré via LaTeX)
 FILES=(
     "page-de-garde.md"
-    "README.md"
     "chapitre-01.md"
     "chapitre-02.md"
     "chapitre-03.md"
@@ -59,8 +58,6 @@ echo "🔄 Génération du PDF..."
 pandoc "${EXISTING_FILES[@]}" \
     -o "$OUTPUT" \
     --pdf-engine=xelatex \
-    --toc \
-    --toc-depth=2 \
     -V documentclass=report \
     -V papersize=a4 \
     -V geometry:margin=2.5cm \
@@ -70,6 +67,7 @@ pandoc "${EXISTING_FILES[@]}" \
     -V lang=fr \
     -V linkcolor=blue \
     -H emoji-support.tex \
+    -B avant-propos-latex.tex \
     --metadata title="L'IA et Nous — Le guide du cyber citoyen" \
     --metadata author="Ivan Berlocher" \
     --metadata date="Décembre 2025"

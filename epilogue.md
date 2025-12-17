@@ -128,5 +128,5 @@ L'aventure continue.
 
 ---
 
-*Ivan Googé*
+*Ivan Berlocher*  
 *Décembre 2025*

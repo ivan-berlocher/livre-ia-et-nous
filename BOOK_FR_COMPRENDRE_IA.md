@@ -1,7 +1,7 @@
 # L'IA et Nous
 ## Le guide du cyber citoyen, édition post-GPT
 
-**Ivan Googé**  
+**Ivan Berlocher**  
 *Version de travail — Décembre 2025*
 
 ---
