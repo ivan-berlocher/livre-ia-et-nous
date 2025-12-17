@@ -175,7 +175,7 @@ C'est comme la différence entre répondre du tac au tac et prendre le temps de 
 
 **2024-2025 — L'ère des Agents**
 
-Nouveau buzzword, nouvelle promesse : les "Agents".
+Nouveau buzzword, nouvelle promesse : les "Agents" *(définition complète au chapitre 10)*.
 
 Un LLM seul répond à des questions. Un **Agent** peut *agir* : naviguer sur le web, envoyer des emails, réserver des billets, modifier des fichiers, exécuter du code.
 

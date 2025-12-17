@@ -184,6 +184,8 @@ Le RGPD s'applique à **toute entreprise** qui traite des données de résidents
 
 ### 6.9 Ce que l'AI Act ajoute
 
+> ⚠️ L'AI Act est entré en vigueur, mais son interprétation précise sera affinée par la jurisprudence dans les années à venir. Les principes ci-dessous sont stables ; les détails d'application évolueront.
+
 **Transparence obligatoire**
 Quand vous interagissez avec une IA, vous devez en être informé. Pas de chatbot qui se fait passer pour un humain.
 

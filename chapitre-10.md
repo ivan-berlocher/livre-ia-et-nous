@@ -381,6 +381,12 @@ Et ce choix dépend de ce que nous exigerons collectivement.
 
 ---
 
+> 📖 **Pause possible**
+>
+> Vous avez l'essentiel : ce qui est certain, ce que sont les agents, les enjeux d'ouverture et de gouvernabilité. Vous pouvez passer au chapitre suivant si vous le souhaitez. La suite approfondit les scénarios — probable, incertain, fantasmé.
+
+---
+
 ### 10.7 Ce qui est probable
 
 **Ces évolutions ont de bonnes chances de se produire :**
