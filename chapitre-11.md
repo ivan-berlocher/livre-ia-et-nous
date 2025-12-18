@@ -103,33 +103,148 @@ Les métiers de 2030 n'existent pas encore.
 
 ---
 
-### 11.5 La transformation des métiers existants
+### 11.5 Des exemples concrets de transformation
 
-**L'IA ne remplace pas le métier. Elle change la façon de l'exercer.**
+L'IA ne supprime pas des métiers en bloc.
+Elle retire certaines tâches, en renforce d'autres, et déplace la responsabilité humaine.
 
-**Médecin :**
+Voici ce que cela donne, concrètement.
 
-- Avant IA : Diagnostic basé sur l'expérience et quelques examens
-- Avec IA : Diagnostic assisté par analyse de données massives
-- Valeur humaine : Relation patient, décision éthique, empathie
+---
 
-**Avocat :**
+#### Enseignant / Professeur
 
-- Avant IA : Recherche juridique manuelle, rédaction chronophage
-- Avec IA : Recherche automatisée, rédaction assistée
-- Valeur humaine : Stratégie, plaidoirie, conseil personnalisé
+**Avant**
+Un professeur de lycée prépare son cours, explique la leçon, corrige les copies, répète chaque année les mêmes explications.
 
-**Enseignant :**
+**Avec l'IA**
+- L'IA explique la leçon à l'élève, à son rythme.
+- Elle génère des exercices personnalisés.
+- Elle corrige automatiquement les erreurs factuelles.
 
-- Avant IA : Cours standardisés, correction manuelle
-- Avec IA : Contenu personnalisé, correction automatique
-- Valeur humaine : Inspiration, accompagnement, exemple
+**Ce que fait encore l'humain**
+- Comprendre pourquoi un élève bloque.
+- Ajuster le rythme, rassurer, encourager.
+- Construire un parcours de progression, pas une simple leçon.
+- Donner du sens à l'apprentissage dans la durée.
 
-**Journaliste :**
+👉 Le métier ne disparaît pas : il passe de "transmetteur" à "architecte d'apprentissage".
 
-- Avant IA : Recherche, rédaction, vérification manuelles
-- Avec IA : Veille automatisée, rédaction assistée, fact-checking accéléré
-- Valeur humaine : Enquête, analyse, point de vue
+---
+
+#### Développeur / Ingénieur logiciel
+
+**Avant**
+Un développeur écrit du code, corrige des bugs, implémente des tickets, souvent sans visibilité globale.
+
+**Avec l'IA**
+- L'IA génère 80 % du code standard.
+- Elle propose des architectures, des tests, des refactors.
+- Elle détecte des bugs avant même qu'ils n'apparaissent.
+
+**Ce que fait encore l'humain**
+- Décider quelle architecture est acceptable.
+- Comprendre les impacts humains, économiques, éthiques.
+- Définir les règles, les limites, les comportements attendus.
+- Assumer les conséquences d'un système en production.
+
+👉 Le développeur devient responsable du comportement du système, pas simple producteur de code.
+
+---
+
+#### Artiste / Créateur
+
+**Avant**
+Un artiste produit une œuvre : tableau, film, musique, installation.
+
+**Avec l'IA**
+- L'IA génère des images, des sons, des variations à l'infini.
+- La production n'est plus un problème.
+- L'originalité formelle devient abondante.
+
+**Ce que fait encore l'humain**
+- Choisir ce qui mérite d'exister.
+- Construire une expérience cohérente.
+- Donner une intention, un récit, un parcours émotionnel.
+- Décider quand l'œuvre commence… et quand elle s'arrête.
+
+👉 L'artiste devient scénographe d'expérience, pas simple fabricant d'objets.
+
+---
+
+#### Journaliste / Analyste
+
+**Avant**
+Un journaliste collecte des informations, écrit des articles, résume des faits.
+
+**Avec l'IA**
+- L'IA résume les faits en quelques secondes.
+- Elle rédige des dépêches correctes.
+- Elle compile des données à grande échelle.
+
+**Ce que fait encore l'humain**
+- Vérifier, recouper, contextualiser.
+- Relier les faits dans le temps.
+- Mettre en lumière ce qui est important — pas seulement ce qui est nouveau.
+- Assumer une responsabilité éditoriale.
+
+👉 Le journaliste devient garant du réel partagé, pas simple narrateur de faits.
+
+---
+
+#### Juriste / Droit
+
+**Avant**
+Un juriste applique des règles, rédige des contrats, interprète des textes.
+
+**Avec l'IA**
+- L'IA analyse des milliers de jurisprudences.
+- Elle propose des contrats types.
+- Elle détecte des incohérences juridiques.
+
+**Ce que fait encore l'humain**
+- Arbitrer des cas ambigus.
+- Assumer une décision quand la règle ne suffit pas.
+- Porter la responsabilité morale et légale.
+- Expliquer une décision à des humains.
+
+👉 Le juriste devient interface entre règles, machines et responsabilité humaine.
+
+---
+
+#### Manager / Décideur
+
+**Avant**
+Un manager planifie, contrôle, suit des indicateurs.
+
+**Avec l'IA**
+- L'IA optimise les plannings.
+- Elle anticipe des risques.
+- Elle propose des décisions "optimales".
+
+**Ce que fait encore l'humain**
+- Décider quand ne pas optimiser.
+- Prendre en compte l'humain, le contexte, le long terme.
+- Assumer une décision imparfaite mais juste.
+- Être responsable des conséquences.
+
+👉 Le manager devient porteur de responsabilité, pas simple optimisateur.
+
+---
+
+#### Ce que ces exemples montrent
+
+Dans tous les cas :
+- l'IA retire la mécanique,
+- elle accélère la production,
+- mais elle ne peut pas assumer la responsabilité.
+
+Ce qui reste humain n'est pas :
+- la vitesse,
+- ni la mémoire brute,
+- ni la production.
+
+👉 **Ce qui reste humain, c'est le jugement situé, le sens, et la responsabilité dans le temps.**
 
 ---
 
