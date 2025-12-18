@@ -1,5 +1,7 @@
 # L'IA et Nous — Le guide du cyber citoyen
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17972888.svg)](https://doi.org/10.5281/zenodo.17972888)
+
 **Comprendre vraiment l'intelligence artificielle pour rester maître de vos choix**
 
 ---
