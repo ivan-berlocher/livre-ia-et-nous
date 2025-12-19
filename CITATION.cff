@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "L'IA et Nous — Le guide du cyber citoyen"
+version: 1.0.0
+date-released: 2025-12-18
+authors:
+  - family-names: Berlocher
+    given-names: Ivan
+repository-code: "https://github.com/ivan-berlocher/livre-ia-et-nous"
+license: CC-BY-NC-SA-4.0
+doi: 10.5281/zenodo.17972888
+keywords:
+  - artificial-intelligence
+  - ai-literacy
+  - digital-citizenship
+  - gdpr
+  - ai-act
+  - europe
+abstract: "Guide pratique pour comprendre l'intelligence artificielle et rester maître de ses choix. Destiné aux citoyens européens souhaitant comprendre les enjeux de l'IA, leurs droits (RGPD, AI Act) et les questions éthiques."
